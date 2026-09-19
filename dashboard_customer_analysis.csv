@@ -1,0 +1,1205 @@
+customer_id,company_name,plan_tier,status,mrr_usd,support_ticket_count,total_events,active_days,distinct_features,segment,churned
+1,Rush Platform,professional,cancelled,44.25,10.0,40,37,3,Churned,True
+2,TrekStack,free,paused,0.0,7.0,33,33,4,Churned,False
+3,Wave Group,free,active,0.0,9.0,40,39,6,High Risk (Low Engagement + High Support),False
+4,KeenSoftware,enterprise,active,82.5,4.0,45,45,3,Support Risk,False
+5,QuestAnalytics,starter,active,15.83,3.0,45,43,5,Support Risk,False
+6,RiftWorks,free,paused,0.0,5.0,35,33,7,Churned,False
+7,PeakIO,free,active,0.0,11.0,45,43,6,Support Risk,False
+8,Data Systems,free,active,0.0,3.0,44,43,6,Support Risk,False
+9,Iris Hub,free,active,0.0,6.0,49,47,9,Support Risk,False
+10,GlowSystems,professional,active,59.0,5.0,37,35,8,High Risk (Low Engagement + High Support),False
+11,Xenon Cloud,starter,active,7.5,5.0,43,41,4,Support Risk,False
+12,QuarkDev,enterprise,active,99.0,6.0,45,43,4,Support Risk,False
+13,Vertex Labs,free,cancelled,0.0,1.0,33,32,4,Churned,True
+14,Keen Ventures,enterprise,active,74.25,7.0,43,42,5,Support Risk,False
+15,DataLogic,starter,active,12.0,5.0,39,37,4,High Risk (Low Engagement + High Support),False
+16,Iris Labs,starter,active,10.0,6.0,51,50,8,Support Risk,False
+17,DriftCloud,starter,active,9.6,7.0,42,41,5,Support Risk,False
+18,LinkIO,professional,active,39.0,4.0,48,45,5,Support Risk,False
+19,Flow Corp,professional,cancelled,32.5,3.0,37,37,8,Churned,True
+20,AcmeHQ,enterprise,active,82.5,3.0,38,38,5,High Risk (Low Engagement + High Support),False
+21,NexusStack,professional,active,39.0,0.0,44,42,4,Healthy,False
+22,Onyx Analytics,professional,active,49.17,7.0,42,42,4,Support Risk,False
+23,KitePro,starter,active,15.83,4.0,44,42,7,Support Risk,False
+24,TidalStudio,starter,active,15.83,8.0,32,32,4,High Risk (Low Engagement + High Support),False
+25,PulseSolutions,free,active,0.0,1.0,38,38,4,Disengaged Risk,False
+26,YieldAI,enterprise,active,99.0,7.0,40,38,7,High Risk (Low Engagement + High Support),False
+27,WaveStack,professional,cancelled,32.5,5.0,44,42,2,Churned,True
+28,Keen Software,starter,active,19.0,2.0,40,38,5,Disengaged Risk,False
+29,QuestSystems,professional,active,49.17,7.0,41,40,4,Support Risk,False
+30,NexusVentures,starter,active,12.0,5.0,29,28,2,High Risk (Low Engagement + High Support),False
+31,VineSolutions,professional,active,39.0,7.0,46,43,4,Support Risk,False
+32,Arc Stack,starter,active,15.83,7.0,26,26,6,High Risk (Low Engagement + High Support),False
+33,SageDev,professional,active,59.0,3.0,33,32,2,High Risk (Low Engagement + High Support),False
+34,JadeHQ,professional,active,33.15,2.0,39,38,4,Disengaged Risk,False
+35,PulseAnalytics,starter,active,10.0,6.0,33,32,7,High Risk (Low Engagement + High Support),False
+36,YieldHub,professional,active,59.0,5.0,42,37,4,High Risk (Low Engagement + High Support),False
+37,Flux Labs,professional,active,39.0,5.0,42,40,5,Support Risk,False
+38,FlowStack,enterprise,active,82.5,2.0,48,45,4,Healthy,False
+39,QuarkTech,free,active,0.0,9.0,43,39,2,High Risk (Low Engagement + High Support),False
+40,PulseDigital,starter,active,10.0,6.0,32,32,2,High Risk (Low Engagement + High Support),False
+41,TidalSystems,starter,active,12.0,4.0,38,38,3,High Risk (Low Engagement + High Support),False
+42,KeenAI,professional,active,49.17,9.0,29,28,2,High Risk (Low Engagement + High Support),False
+43,TrekDigital,free,active,0.0,4.0,42,39,4,High Risk (Low Engagement + High Support),False
+44,Drift Ventures,free,active,0.0,3.0,41,39,6,High Risk (Low Engagement + High Support),False
+45,JadeLabs,free,active,0.0,4.0,50,47,6,Support Risk,False
+46,SagePlatform,free,active,0.0,2.0,40,35,7,Disengaged Risk,False
+47,UltraSystems,starter,active,19.0,1.0,29,28,2,Disengaged Risk,False
+48,SyncPlatform,enterprise,cancelled,70.12,2.0,42,40,2,Churned,True
+49,EchoIO,free,active,0.0,8.0,40,38,2,High Risk (Low Engagement + High Support),False
+50,Warp Corp,free,active,0.0,4.0,44,43,6,Support Risk,False
+51,WarpSoftware,starter,active,15.83,3.0,51,48,6,Support Risk,False
+52,Orbit Analytics,free,cancelled,0.0,2.0,41,39,8,Churned,True
+53,MistPro,free,active,0.0,5.0,45,43,4,Support Risk,False
+54,Orbit Ops,free,active,0.0,4.0,39,36,4,High Risk (Low Engagement + High Support),False
+55,LunaVentures,professional,active,31.2,4.0,37,34,7,High Risk (Low Engagement + High Support),False
+56,Flow Works,professional,active,59.0,7.0,30,29,5,High Risk (Low Engagement + High Support),False
+57,OnyxHQ,professional,active,32.5,9.0,45,41,6,Support Risk,False
+58,Hub HQ,starter,active,19.0,5.0,35,34,3,High Risk (Low Engagement + High Support),False
+59,MistDev,starter,active,12.0,5.0,42,42,5,Support Risk,False
+60,JetHQ,professional,active,59.0,5.0,41,40,4,Support Risk,False
+61,UltraPro,free,cancelled,0.0,6.0,50,49,8,Churned,True
+62,GridDev,starter,active,16.15,4.0,36,36,6,High Risk (Low Engagement + High Support),False
+63,UltraStack,professional,cancelled,39.0,8.0,51,51,7,Churned,True
+64,CoreSolutions,starter,active,10.0,0.0,46,45,8,Healthy,False
+65,Yield Group,free,active,0.0,2.0,40,39,4,Disengaged Risk,False
+66,EdgeHQ,free,active,0.0,3.0,50,49,5,Support Risk,False
+67,Quest Logic,free,active,0.0,5.0,49,47,5,Support Risk,False
+68,Quark Ops,enterprise,cancelled,82.5,3.0,43,42,5,Churned,True
+69,Ion Dynamics,free,active,0.0,8.0,44,41,6,Support Risk,False
+70,JetHub,professional,cancelled,39.0,8.0,43,39,4,Churned,True
+71,LinkLogic,enterprise,active,199.0,9.0,35,34,4,High Risk (Low Engagement + High Support),False
+72,Cloud AI,starter,active,12.0,8.0,45,43,5,Support Risk,False
+73,LinkPro,starter,active,9.6,5.0,36,36,4,High Risk (Low Engagement + High Support),False
+74,GridOps,starter,active,15.83,3.0,43,41,3,Support Risk,False
+75,NovaTech,free,cancelled,0.0,6.0,30,30,3,Churned,True
+76,Wave Platform,starter,active,10.0,6.0,35,35,3,High Risk (Low Engagement + High Support),False
+77,Nexus AI,professional,active,39.0,2.0,46,44,2,Healthy,False
+78,Rush Group,professional,active,59.0,3.0,41,40,5,Support Risk,False
+79,PeakStack,professional,cancelled,32.5,9.0,41,40,5,Churned,True
+80,JetOps,professional,active,59.0,7.0,60,56,4,Support Risk,False
+81,WaveOps,professional,active,47.2,4.0,42,40,9,Support Risk,False
+82,Orbit Corp,professional,active,39.0,3.0,42,41,5,Support Risk,False
+83,LunaDigital,free,active,0.0,7.0,48,45,2,Support Risk,False
+84,ZealVentures,free,active,0.0,5.0,36,36,2,High Risk (Low Engagement + High Support),False
+85,Rift Ops,free,active,0.0,4.0,40,40,5,Support Risk,False
+86,Flux Pro,professional,active,35.1,6.0,50,50,7,Support Risk,False
+87,UltraVentures,starter,active,12.0,3.0,40,40,5,Support Risk,False
+88,FlowCorp,free,cancelled,0.0,3.0,23,23,4,Churned,True
+89,WavePro,enterprise,active,61.88,3.0,36,36,3,High Risk (Low Engagement + High Support),False
+90,DriftHub,starter,active,19.0,7.0,42,41,5,Support Risk,False
+91,LinkAI,starter,active,19.0,1.0,32,32,3,Disengaged Risk,False
+92,DriftVentures,free,active,0.0,5.0,34,33,7,High Risk (Low Engagement + High Support),False
+93,TrekTech,professional,active,39.0,2.0,46,44,3,Healthy,False
+94,OnyxStack,free,cancelled,0.0,3.0,41,39,7,Churned,True
+95,PeakNet,professional,active,49.17,4.0,42,39,6,High Risk (Low Engagement + High Support),False
+96,PeakOps,enterprise,cancelled,99.0,6.0,45,42,5,Churned,True
+97,QuestWorks,starter,active,10.8,3.0,36,34,4,High Risk (Low Engagement + High Support),False
+98,Vine HQ,starter,active,15.83,6.0,41,37,5,High Risk (Low Engagement + High Support),False
+99,GlowDev,starter,active,19.0,4.0,39,38,3,High Risk (Low Engagement + High Support),False
+100,SyncTech,starter,active,12.0,5.0,46,44,6,Support Risk,False
+101,PulseLogic,free,active,0.0,5.0,50,50,7,Support Risk,False
+102,Flow Labs,starter,cancelled,10.0,3.0,42,40,5,Churned,True
+103,EdgeSystems,starter,active,10.8,2.0,48,47,7,Healthy,False
+104,Hive Dynamics,professional,active,39.0,3.0,39,38,3,High Risk (Low Engagement + High Support),False
+105,UnitOps,starter,active,19.0,2.0,45,44,6,Healthy,False
+106,OnyxSolutions,free,active,0.0,4.0,43,41,5,Support Risk,False
+107,QuarkAI,starter,active,19.0,5.0,48,44,8,Support Risk,False
+108,VertexSolutions,starter,cancelled,12.0,1.0,30,30,2,Churned,True
+109,TidalHQ,starter,active,15.83,3.0,31,30,3,High Risk (Low Engagement + High Support),False
+110,EdgeOps,starter,cancelled,10.0,5.0,48,47,7,Churned,True
+111,XenonLogic,professional,active,49.17,2.0,39,38,4,Disengaged Risk,False
+112,Hive Logic,enterprise,active,99.0,7.0,54,51,9,Support Risk,False
+113,CoreTech,professional,active,39.0,5.0,43,38,3,High Risk (Low Engagement + High Support),False
+114,Meta Digital,enterprise,cancelled,99.0,8.0,45,45,2,Churned,True
+115,HiveCorp,starter,active,15.83,3.0,42,41,2,Support Risk,False
+116,BeamDev,starter,active,15.83,5.0,43,41,3,Support Risk,False
+117,Onyx Cloud,free,active,0.0,6.0,48,44,4,Support Risk,False
+118,Peak Hub,starter,active,12.0,5.0,49,47,2,Support Risk,False
+119,EchoPlatform,professional,active,39.0,7.0,44,42,4,Support Risk,False
+120,UnitStudio,free,cancelled,0.0,8.0,39,35,8,Churned,True
+121,KeenPro,professional,active,49.17,3.0,41,40,6,Support Risk,False
+122,Sync IO,starter,active,10.0,4.0,33,30,5,High Risk (Low Engagement + High Support),False
+123,Jade Software,starter,active,10.0,1.0,41,40,5,Healthy,False
+124,XenonWorks,professional,active,39.0,7.0,35,34,2,High Risk (Low Engagement + High Support),False
+125,UltraGroup,professional,active,29.25,4.0,55,55,7,Support Risk,False
+126,RiftSystems,enterprise,active,99.0,9.0,46,44,7,Support Risk,False
+127,Onyx Pro,professional,active,49.17,7.0,48,44,6,Support Risk,False
+128,GlowHub,starter,active,8.5,4.0,52,51,5,Support Risk,False
+129,IrisWorks,professional,active,32.5,3.0,44,41,7,Support Risk,False
+130,ZealCloud,starter,active,19.0,8.0,49,47,8,Support Risk,False
+131,Sync Net,enterprise,active,82.5,4.0,38,38,4,High Risk (Low Engagement + High Support),False
+132,PulseAI,starter,cancelled,12.0,6.0,38,37,6,Churned,True
+133,Sync Works,starter,active,9.6,5.0,49,48,3,Support Risk,False
+134,Vine Cloud,professional,active,39.0,6.0,52,50,6,Support Risk,False
+135,RushSoftware,free,active,0.0,8.0,43,43,2,Support Risk,False
+136,Ion IO,starter,active,12.0,7.0,43,41,3,Support Risk,False
+137,Tidal Solutions,professional,active,39.0,6.0,39,39,7,High Risk (Low Engagement + High Support),False
+138,ArcNet,starter,active,19.0,5.0,37,35,0,High Risk (Low Engagement + High Support),False
+139,DataDynamics,professional,active,44.25,4.0,39,39,3,High Risk (Low Engagement + High Support),False
+140,DriftDigital,professional,cancelled,39.0,5.0,39,39,6,Churned,True
+141,IrisAI,professional,active,59.0,6.0,46,45,7,Support Risk,False
+142,YieldTech,professional,active,49.17,5.0,50,47,4,Support Risk,False
+143,IrisCorp,starter,active,10.8,7.0,42,39,3,High Risk (Low Engagement + High Support),False
+144,Mist AI,enterprise,active,82.5,3.0,54,53,2,Support Risk,False
+145,Unit Ventures,professional,active,39.0,4.0,39,39,5,High Risk (Low Engagement + High Support),False
+146,OnyxOps,professional,active,39.0,6.0,36,35,2,High Risk (Low Engagement + High Support),False
+147,PulsePlatform,starter,active,10.0,3.0,43,42,7,Support Risk,False
+148,XenonTech,professional,active,53.1,7.0,34,33,2,High Risk (Low Engagement + High Support),False
+149,EchoSoftware,free,active,0.0,3.0,40,38,4,High Risk (Low Engagement + High Support),False
+150,IrisStack,starter,active,14.25,6.0,42,41,4,Support Risk,False
+151,Jade Ventures,starter,active,12.0,6.0,34,33,3,High Risk (Low Engagement + High Support),False
+152,QuarkHub,starter,active,10.8,8.0,35,34,2,High Risk (Low Engagement + High Support),False
+153,HiveAI,starter,cancelled,9.0,2.0,45,44,5,Churned,True
+154,Iris Dynamics,starter,active,10.0,3.0,51,47,7,Support Risk,False
+155,GridSystems,free,active,0.0,8.0,37,36,5,High Risk (Low Engagement + High Support),False
+156,TidalOps,free,cancelled,0.0,4.0,37,36,3,Churned,True
+157,KeenSystems,free,active,0.0,8.0,44,44,4,Support Risk,False
+158,Nova Ventures,starter,active,12.67,0.0,36,36,5,Disengaged Risk,False
+159,Vine Studio,enterprise,active,89.1,4.0,53,49,4,Support Risk,False
+160,FluxPlatform,free,paused,0.0,6.0,57,56,6,Churned,False
+161,VineLogic,starter,active,7.5,2.0,36,35,6,Disengaged Risk,False
+162,FlowStudio,starter,active,10.0,7.0,48,46,5,Support Risk,False
+163,Rush Cloud,free,active,0.0,6.0,47,47,3,Support Risk,False
+164,Acme Logic,professional,active,36.88,11.0,37,36,1,High Risk (Low Engagement + High Support),False
+165,Zen Works,free,active,0.0,7.0,39,39,3,High Risk (Low Engagement + High Support),False
+166,Zeal Dynamics,free,active,0.0,3.0,38,37,4,High Risk (Low Engagement + High Support),False
+167,Quest Digital,free,active,0.0,4.0,42,40,6,Support Risk,False
+168,XenonNet,professional,cancelled,44.25,3.0,33,31,4,Churned,True
+169,Quark Platform,free,active,0.0,4.0,50,48,7,Support Risk,False
+170,WaveLabs,free,active,0.0,2.0,33,33,4,Disengaged Risk,False
+171,UnitNet,starter,active,10.0,7.0,37,35,5,High Risk (Low Engagement + High Support),False
+172,JadeSolutions,free,active,0.0,4.0,47,47,5,Support Risk,False
+173,Rush Hub,free,cancelled,0.0,10.0,38,35,6,Churned,True
+174,NexusLogic,professional,cancelled,59.0,3.0,35,34,6,Churned,True
+175,Yield Corp,free,active,0.0,2.0,42,41,7,Healthy,False
+176,MetaLogic,enterprise,active,74.25,4.0,30,29,4,High Risk (Low Engagement + High Support),False
+177,Iris Cloud,starter,active,19.0,4.0,33,31,2,High Risk (Low Engagement + High Support),False
+178,WarpPro,free,active,0.0,4.0,56,53,6,Support Risk,False
+179,Vine Ventures,professional,cancelled,32.5,5.0,47,46,5,Churned,True
+180,Rush Dev,enterprise,active,99.0,5.0,39,38,6,High Risk (Low Engagement + High Support),False
+181,PulseHub,professional,active,59.0,3.0,54,53,11,Support Risk,False
+182,SageStudio,starter,active,19.0,4.0,37,36,4,High Risk (Low Engagement + High Support),False
+183,BeamSoftware,starter,active,14.25,2.0,47,45,7,Healthy,False
+184,BoltSystems,professional,cancelled,49.17,8.0,36,34,4,Churned,True
+185,XenonOps,free,cancelled,0.0,3.0,40,40,7,Churned,True
+186,AcmeLabs,starter,cancelled,12.0,9.0,38,37,5,Churned,True
+187,Hive Ventures,starter,active,19.0,4.0,36,36,6,High Risk (Low Engagement + High Support),False
+188,GridDigital,starter,active,12.0,5.0,40,38,3,High Risk (Low Engagement + High Support),False
+189,Quest Cloud,starter,active,10.0,4.0,33,32,3,High Risk (Low Engagement + High Support),False
+190,Acme Studio,starter,active,10.0,4.0,44,43,6,Support Risk,False
+191,Data Logic,starter,active,10.2,9.0,46,46,6,Support Risk,False
+192,GlowSoftware,starter,active,12.0,5.0,35,34,5,High Risk (Low Engagement + High Support),False
+193,PulseTech,free,cancelled,0.0,2.0,36,35,4,Churned,True
+194,Zeal Analytics,starter,active,12.0,5.0,35,32,5,High Risk (Low Engagement + High Support),False
+195,Kite Analytics,enterprise,cancelled,99.0,7.0,39,38,4,Churned,True
+196,CloudDynamics,professional,active,39.0,9.0,39,38,6,High Risk (Low Engagement + High Support),False
+197,LunaPlatform,professional,active,49.17,2.0,36,35,4,Disengaged Risk,False
+198,DriftStudio,starter,active,15.83,3.0,39,38,3,High Risk (Low Engagement + High Support),False
+199,VertexLabs,free,cancelled,0.0,3.0,38,37,4,Churned,True
+200,XenonHQ,professional,active,49.17,5.0,40,40,3,Support Risk,False
+201,ZenNet,professional,cancelled,41.79,5.0,47,45,4,Churned,True
+202,CoreCloud,enterprise,active,99.0,1.0,38,36,6,Disengaged Risk,False
+203,Tidal Analytics,starter,active,10.0,5.0,39,39,3,High Risk (Low Engagement + High Support),False
+204,IonSoftware,free,cancelled,0.0,3.0,42,40,3,Churned,True
+205,HubAI,professional,active,49.17,6.0,43,42,3,Support Risk,False
+206,RushHQ,enterprise,active,74.25,4.0,62,60,6,Support Risk,False
+207,OnyxDynamics,free,active,0.0,5.0,34,33,3,High Risk (Low Engagement + High Support),False
+208,Echo Dev,starter,active,10.0,6.0,37,34,5,High Risk (Low Engagement + High Support),False
+209,KeenLogic,enterprise,active,82.5,7.0,52,50,6,Support Risk,False
+210,FluxDynamics,professional,active,59.0,3.0,27,26,7,High Risk (Low Engagement + High Support),False
+211,Trek Digital,starter,active,12.0,8.0,46,44,6,Support Risk,False
+212,OnyxIO,free,active,0.0,8.0,47,45,5,Support Risk,False
+213,Sage Ventures,starter,cancelled,9.0,3.0,47,44,6,Churned,True
+214,UltraSolutions,enterprise,active,99.0,8.0,32,31,2,High Risk (Low Engagement + High Support),False
+215,ArcSolutions,starter,active,15.83,6.0,36,33,5,High Risk (Low Engagement + High Support),False
+216,SyncLabs,starter,active,19.0,6.0,44,43,8,Support Risk,False
+217,PeakSolutions,free,active,0.0,8.0,42,41,5,Support Risk,False
+218,Keen Dynamics,starter,cancelled,10.8,7.0,26,25,3,Churned,True
+219,TidalLogic,professional,cancelled,59.0,4.0,46,43,5,Churned,True
+220,GridTech,enterprise,active,82.5,7.0,37,37,2,High Risk (Low Engagement + High Support),False
+221,KeenPlatform,professional,cancelled,59.0,5.0,42,42,2,Churned,True
+222,Beam Tech,enterprise,active,179.1,3.0,37,33,9,High Risk (Low Engagement + High Support),False
+223,RushDev,starter,active,15.83,6.0,48,48,6,Support Risk,False
+224,GridVentures,free,cancelled,0.0,6.0,38,37,5,Churned,True
+225,CloudLogic,starter,active,19.0,3.0,36,32,5,High Risk (Low Engagement + High Support),False
+226,OrbitDigital,free,active,0.0,4.0,54,53,6,Support Risk,False
+227,DataDev,starter,active,10.8,5.0,24,24,0,High Risk (Low Engagement + High Support),False
+228,DriftAI,professional,active,59.0,2.0,50,47,5,Healthy,False
+229,LinkDynamics,professional,active,49.17,5.0,30,29,5,High Risk (Low Engagement + High Support),False
+230,PeakPlatform,starter,active,19.0,5.0,50,49,5,Support Risk,False
+231,OrbitAnalytics,starter,active,19.0,2.0,39,37,4,Disengaged Risk,False
+232,Quest Studio,professional,active,32.5,7.0,29,29,3,High Risk (Low Engagement + High Support),False
+233,Hive Hub,starter,active,12.0,6.0,42,39,4,High Risk (Low Engagement + High Support),False
+234,LinkNet,professional,active,39.0,7.0,44,44,6,Support Risk,False
+235,SyncSystems,free,active,0.0,1.0,36,36,5,Disengaged Risk,False
+236,ArcWorks,professional,cancelled,29.25,7.0,29,27,4,Churned,True
+237,HiveCloud,starter,active,15.2,5.0,43,41,7,Support Risk,False
+238,VertexStack,professional,active,35.1,8.0,49,46,6,Support Risk,False
+239,IonGroup,professional,active,59.0,6.0,42,41,3,Support Risk,False
+240,Unit Platform,professional,cancelled,39.0,4.0,50,48,4,Churned,True
+241,BeamOps,starter,active,15.83,5.0,38,37,6,High Risk (Low Engagement + High Support),False
+242,HubStudio,professional,cancelled,39.0,3.0,55,55,5,Churned,True
+243,YieldSystems,free,active,0.0,4.0,36,34,3,High Risk (Low Engagement + High Support),False
+244,Grid IO,starter,cancelled,19.0,2.0,38,36,5,Churned,True
+245,Quest Tech,starter,cancelled,12.0,4.0,47,45,7,Churned,True
+246,Luna AI,starter,cancelled,12.0,4.0,49,49,5,Churned,True
+247,VertexStudio,starter,active,15.83,8.0,38,38,6,High Risk (Low Engagement + High Support),False
+248,Sage Pro,professional,active,49.17,3.0,36,35,5,High Risk (Low Engagement + High Support),False
+249,RiftPro,professional,active,39.0,3.0,30,29,2,High Risk (Low Engagement + High Support),False
+250,SageNet,professional,active,39.0,7.0,43,42,4,Support Risk,False
+251,AcmeStack,free,active,0.0,6.0,36,32,6,High Risk (Low Engagement + High Support),False
+252,Core Ventures,free,cancelled,0.0,5.0,37,36,5,Churned,True
+253,Quest HQ,enterprise,active,82.5,3.0,31,30,5,High Risk (Low Engagement + High Support),False
+254,GridHub,starter,cancelled,10.0,2.0,40,39,3,Churned,True
+255,GridAnalytics,starter,cancelled,10.0,2.0,42,40,7,Churned,True
+256,DriftOps,professional,active,59.0,6.0,42,41,5,Support Risk,False
+257,Ion Systems,starter,active,15.83,5.0,54,51,3,Support Risk,False
+258,Mist Net,professional,active,31.2,5.0,45,44,5,Support Risk,False
+259,RiftDigital,professional,active,50.15,5.0,49,48,8,Support Risk,False
+260,IrisCloud,free,active,0.0,2.0,51,50,9,Healthy,False
+261,JetAI,free,active,0.0,10.0,38,35,4,High Risk (Low Engagement + High Support),False
+262,Yield Logic,professional,active,39.0,5.0,38,37,4,High Risk (Low Engagement + High Support),False
+263,WarpVentures,professional,active,59.0,5.0,39,39,4,High Risk (Low Engagement + High Support),False
+264,Link Analytics,free,active,0.0,3.0,38,37,3,High Risk (Low Engagement + High Support),False
+265,FluxVentures,professional,active,49.17,5.0,42,41,7,Support Risk,False
+266,NovaOps,free,active,0.0,7.0,37,34,6,High Risk (Low Engagement + High Support),False
+267,CloudOps,starter,active,10.2,7.0,28,27,2,High Risk (Low Engagement + High Support),False
+268,PeakSoftware,free,active,0.0,3.0,37,36,6,High Risk (Low Engagement + High Support),False
+269,NovaDynamics,free,active,0.0,7.0,39,38,4,High Risk (Low Engagement + High Support),False
+270,JadeTech,professional,active,49.17,6.0,34,33,6,High Risk (Low Engagement + High Support),False
+271,SageTech,free,active,0.0,8.0,43,41,2,Support Risk,False
+272,JetCloud,free,active,0.0,2.0,51,46,5,Healthy,False
+273,TidalSoftware,starter,active,12.0,6.0,28,25,5,High Risk (Low Engagement + High Support),False
+274,WarpDynamics,professional,active,59.0,5.0,43,42,6,Support Risk,False
+275,GridCloud,enterprise,active,99.0,6.0,35,35,5,High Risk (Low Engagement + High Support),False
+276,UltraPlatform,professional,active,32.5,4.0,44,43,6,Support Risk,False
+277,Mist Tech,free,cancelled,0.0,4.0,48,45,4,Churned,True
+278,Cloud Dynamics,enterprise,active,149.25,7.0,41,38,2,High Risk (Low Engagement + High Support),False
+279,ZenStudio,professional,active,39.0,5.0,45,42,7,Support Risk,False
+280,VinePro,starter,active,12.0,6.0,52,50,6,Support Risk,False
+281,EchoHQ,free,active,0.0,5.0,49,45,5,Support Risk,False
+282,XenonVentures,free,active,0.0,5.0,34,32,2,High Risk (Low Engagement + High Support),False
+283,GlowDigital,professional,cancelled,32.5,5.0,39,39,5,Churned,True
+284,EchoOps,free,cancelled,0.0,6.0,43,40,4,Churned,True
+285,Luna Dev,enterprise,active,99.0,1.0,41,41,5,Healthy,False
+286,KitePlatform,professional,active,59.0,8.0,40,39,5,High Risk (Low Engagement + High Support),False
+287,Bolt Software,starter,active,19.0,3.0,40,38,2,High Risk (Low Engagement + High Support),False
+288,FlowIO,free,active,0.0,7.0,47,46,3,Support Risk,False
+289,OrbitIO,starter,active,15.83,8.0,35,31,3,High Risk (Low Engagement + High Support),False
+290,SyncGroup,professional,active,59.0,2.0,41,40,5,Healthy,False
+291,Beam Stack,professional,active,32.5,3.0,41,39,3,High Risk (Low Engagement + High Support),False
+292,LunaStudio,free,cancelled,0.0,5.0,59,58,5,Churned,True
+293,GridSoftware,professional,active,39.0,6.0,54,52,3,Support Risk,False
+294,UnitLogic,professional,cancelled,49.17,7.0,34,33,4,Churned,True
+295,NexusSolutions,professional,active,49.17,4.0,45,45,5,Support Risk,False
+296,WaveStudio,starter,cancelled,12.0,4.0,47,47,4,Churned,True
+297,Core Logic,enterprise,cancelled,99.0,7.0,38,34,3,Churned,True
+298,Ultra Corp,starter,active,12.0,4.0,44,42,5,Support Risk,False
+299,Keen Analytics,professional,active,59.0,5.0,41,41,5,Support Risk,False
+300,Flow Ops,professional,active,59.0,4.0,42,40,6,Support Risk,False
+301,FluxSolutions,professional,active,41.79,7.0,36,33,3,High Risk (Low Engagement + High Support),False
+302,DriftSystems,starter,active,10.0,6.0,49,48,5,Support Risk,False
+303,EchoGroup,starter,active,15.83,5.0,50,48,4,Support Risk,False
+304,Pulse Dynamics,starter,active,15.83,7.0,42,37,4,High Risk (Low Engagement + High Support),False
+305,Keen AI,enterprise,active,99.0,2.0,43,40,1,Healthy,False
+306,MetaVentures,starter,active,9.0,8.0,40,39,1,High Risk (Low Engagement + High Support),False
+307,KiteStack,starter,active,12.0,3.0,34,33,4,High Risk (Low Engagement + High Support),False
+308,MistStack,free,cancelled,0.0,5.0,32,32,6,Churned,True
+309,NovaSolutions,professional,cancelled,32.5,8.0,45,45,5,Churned,True
+310,Hive Solutions,starter,active,12.0,6.0,48,46,4,Support Risk,False
+311,LinkGroup,enterprise,active,82.5,6.0,39,38,5,High Risk (Low Engagement + High Support),False
+312,SageIO,enterprise,active,82.5,5.0,38,35,5,High Risk (Low Engagement + High Support),False
+313,TrekPro,free,active,0.0,2.0,31,30,4,Disengaged Risk,False
+314,ArcSoftware,professional,cancelled,32.5,2.0,33,33,6,Churned,True
+315,RushDigital,free,active,0.0,2.0,37,37,2,Disengaged Risk,False
+316,VertexTech,starter,active,10.0,5.0,49,47,5,Support Risk,False
+317,Zeal HQ,starter,active,19.0,2.0,46,46,7,Healthy,False
+318,Jade Dev,enterprise,active,99.0,4.0,42,38,5,High Risk (Low Engagement + High Support),False
+319,LinkSystems,starter,active,12.0,7.0,58,56,5,Support Risk,False
+320,Wave Stack,free,active,0.0,6.0,47,47,4,Support Risk,False
+321,BoltNet,free,active,0.0,5.0,34,34,6,High Risk (Low Engagement + High Support),False
+322,RushGroup,professional,active,29.25,3.0,44,42,6,Support Risk,False
+323,NexusStudio,starter,active,19.0,5.0,33,32,4,High Risk (Low Engagement + High Support),False
+324,Hive Ops,enterprise,active,165.83,7.0,25,23,3,High Risk (Low Engagement + High Support),False
+325,Trek Tech,professional,active,39.0,5.0,49,47,4,Support Risk,False
+326,NexusAnalytics,starter,cancelled,15.83,6.0,40,39,5,Churned,True
+327,JadePro,professional,paused,59.0,4.0,44,41,4,Churned,False
+328,IrisGroup,starter,active,19.0,2.0,33,31,4,Disengaged Risk,False
+329,ZenLabs,free,active,0.0,6.0,38,38,6,High Risk (Low Engagement + High Support),False
+330,JadeDev,free,active,0.0,5.0,39,38,4,High Risk (Low Engagement + High Support),False
+331,UnitWorks,professional,active,39.0,6.0,46,45,6,Support Risk,False
+332,WaveCorp,free,cancelled,0.0,3.0,42,41,5,Churned,True
+333,ZenHQ,free,active,0.0,3.0,45,43,9,Support Risk,False
+334,ZenDev,professional,active,32.5,1.0,56,54,3,Healthy,False
+335,ZealCorp,professional,active,49.17,4.0,51,49,3,Support Risk,False
+336,WaveGroup,enterprise,active,99.0,7.0,37,36,2,High Risk (Low Engagement + High Support),False
+337,Nexus Digital,starter,active,15.83,4.0,41,39,5,High Risk (Low Engagement + High Support),False
+338,JadeIO,enterprise,cancelled,70.12,8.0,45,41,3,Churned,True
+339,DataHQ,starter,active,16.15,4.0,40,38,5,High Risk (Low Engagement + High Support),False
+340,OrbitLogic,free,active,0.0,6.0,56,56,7,Support Risk,False
+341,VertexIO,starter,active,10.0,6.0,50,47,3,Support Risk,False
+342,Vertex Logic,starter,cancelled,10.0,4.0,32,31,3,Churned,True
+343,PeakDigital,free,active,0.0,6.0,43,42,5,Support Risk,False
+344,PeakVentures,free,paused,0.0,3.0,39,39,8,Churned,False
+345,Zeal Software,professional,active,39.0,7.0,42,41,5,Support Risk,False
+346,SageHub,free,cancelled,0.0,5.0,42,42,7,Churned,True
+347,ArcPlatform,professional,active,39.0,3.0,41,38,4,High Risk (Low Engagement + High Support),False
+348,Vine Logic,free,active,0.0,2.0,39,39,6,Disengaged Risk,False
+349,HiveDynamics,enterprise,active,99.0,4.0,40,39,6,High Risk (Low Engagement + High Support),False
+350,DriftSolutions,professional,cancelled,39.0,10.0,47,45,6,Churned,True
+351,LunaHQ,starter,cancelled,10.0,6.0,25,25,4,Churned,True
+352,UnitDev,free,cancelled,0.0,4.0,30,28,4,Churned,True
+353,ArcCloud,free,active,0.0,5.0,45,42,5,Support Risk,False
+354,Link Ops,starter,active,19.0,6.0,46,45,2,Support Risk,False
+355,Cloud Ops,starter,active,19.0,6.0,42,41,6,Support Risk,False
+356,DriftPro,professional,active,59.0,6.0,45,44,7,Support Risk,False
+357,VertexDev,free,active,0.0,3.0,38,35,4,High Risk (Low Engagement + High Support),False
+358,BeamGroup,professional,active,39.0,2.0,40,39,9,Disengaged Risk,False
+359,TrekCloud,starter,active,10.0,5.0,43,42,4,Support Risk,False
+360,Sync Analytics,enterprise,active,82.5,5.0,38,38,3,High Risk (Low Engagement + High Support),False
+361,MetaWorks,professional,active,32.5,4.0,56,52,6,Support Risk,False
+362,Hive Cloud,starter,active,15.83,5.0,41,41,5,Support Risk,False
+363,VertexLogic,starter,active,12.0,5.0,39,37,4,High Risk (Low Engagement + High Support),False
+364,LunaSystems,professional,active,39.0,5.0,34,32,4,High Risk (Low Engagement + High Support),False
+365,Grid Dev,starter,active,10.0,3.0,41,39,3,High Risk (Low Engagement + High Support),False
+366,VertexHQ,starter,active,12.0,2.0,30,29,6,Disengaged Risk,False
+367,Hub Labs,free,active,0.0,14.0,48,45,1,Support Risk,False
+368,NexusWorks,starter,active,19.0,8.0,43,41,3,Support Risk,False
+369,MetaNet,starter,active,12.0,2.0,49,47,7,Healthy,False
+370,Xenon Logic,starter,cancelled,12.0,6.0,41,39,4,Churned,True
+371,ZealStudio,free,active,0.0,2.0,43,41,2,Healthy,False
+372,NexusPlatform,professional,active,32.5,4.0,35,34,3,High Risk (Low Engagement + High Support),False
+373,VineNet,enterprise,active,99.0,5.0,31,31,2,High Risk (Low Engagement + High Support),False
+374,UltraIO,free,cancelled,0.0,5.0,45,43,3,Churned,True
+375,TidalVentures,professional,active,44.25,6.0,42,41,4,Support Risk,False
+376,XenonDynamics,free,active,0.0,4.0,40,40,5,Support Risk,False
+377,ZenLogic,starter,active,10.8,6.0,41,37,6,High Risk (Low Engagement + High Support),False
+378,Bolt Digital,professional,active,49.17,5.0,40,40,6,Support Risk,False
+379,BeamDynamics,enterprise,active,84.15,7.0,37,35,3,High Risk (Low Engagement + High Support),False
+380,KeenIO,starter,active,19.0,3.0,52,50,7,Support Risk,False
+381,EchoStack,free,active,0.0,3.0,42,41,3,Support Risk,False
+382,Cloud Net,professional,cancelled,53.1,3.0,41,39,5,Churned,True
+383,Glow Tech,starter,active,12.67,4.0,39,38,4,High Risk (Low Engagement + High Support),False
+384,QuestHQ,enterprise,active,165.83,6.0,36,34,6,High Risk (Low Engagement + High Support),False
+385,WarpCorp,enterprise,active,99.0,10.0,39,39,3,High Risk (Low Engagement + High Support),False
+386,EchoCloud,starter,cancelled,19.0,5.0,38,38,4,Churned,True
+387,GridDynamics,enterprise,active,99.0,9.0,34,32,3,High Risk (Low Engagement + High Support),False
+388,MetaDev,free,cancelled,0.0,5.0,50,48,4,Churned,True
+389,CloudLabs,free,cancelled,0.0,5.0,53,52,8,Churned,True
+390,Sync HQ,professional,cancelled,32.5,7.0,46,45,7,Churned,True
+391,QuarkSolutions,professional,active,59.0,8.0,41,40,6,Support Risk,False
+392,Keen Pro,professional,cancelled,39.0,10.0,40,40,5,Churned,True
+393,EchoCorp,free,active,0.0,4.0,34,34,3,High Risk (Low Engagement + High Support),False
+394,DataStack,professional,active,39.0,5.0,38,38,4,High Risk (Low Engagement + High Support),False
+395,TidalNet,enterprise,cancelled,89.1,6.0,39,38,7,Churned,True
+396,Data Works,professional,active,32.5,5.0,47,45,6,Support Risk,False
+397,EdgeAI,professional,cancelled,32.5,8.0,33,32,3,Churned,True
+398,Meta Corp,starter,active,10.0,7.0,40,37,2,High Risk (Low Engagement + High Support),False
+399,LinkSolutions,free,active,0.0,6.0,39,39,5,High Risk (Low Engagement + High Support),False
+400,Flux Tech,professional,active,59.0,9.0,35,35,8,High Risk (Low Engagement + High Support),False
+401,Core Corp,starter,active,15.83,6.0,32,30,4,High Risk (Low Engagement + High Support),False
+402,MetaSystems,starter,active,15.83,5.0,34,32,3,High Risk (Low Engagement + High Support),False
+403,RiftIO,professional,active,39.0,4.0,40,39,5,High Risk (Low Engagement + High Support),False
+404,Bolt IO,starter,active,10.0,3.0,39,37,3,High Risk (Low Engagement + High Support),False
+405,GridPlatform,free,paused,0.0,5.0,37,35,4,Churned,False
+406,UnitSoftware,professional,active,59.0,2.0,38,36,3,Disengaged Risk,False
+407,MistSolutions,starter,active,17.1,7.0,38,37,4,High Risk (Low Engagement + High Support),False
+408,AcmePro,starter,active,19.0,4.0,49,48,8,Support Risk,False
+409,EchoPro,free,cancelled,0.0,5.0,38,38,3,Churned,True
+410,NovaDigital,starter,active,9.0,5.0,41,40,4,Support Risk,False
+411,ZealDigital,starter,active,19.0,3.0,34,33,3,High Risk (Low Engagement + High Support),False
+412,SageGroup,professional,active,39.0,2.0,44,44,8,Healthy,False
+413,YieldStudio,professional,active,59.0,4.0,28,28,5,High Risk (Low Engagement + High Support),False
+414,UltraStudio,starter,cancelled,10.0,3.0,36,36,4,Churned,True
+415,CoreGroup,professional,cancelled,39.0,4.0,38,37,6,Churned,True
+416,NovaDev,professional,cancelled,32.5,3.0,41,41,5,Churned,True
+417,ArcVentures,professional,active,39.0,3.0,41,41,9,Support Risk,False
+418,KiteGroup,starter,cancelled,12.67,0.0,42,41,4,Churned,True
+419,JetStudio,free,active,0.0,3.0,47,46,5,Support Risk,False
+420,Sync Hub,free,active,0.0,4.0,48,47,8,Support Risk,False
+421,TidalLabs,starter,active,19.0,2.0,34,32,2,Disengaged Risk,False
+422,BoltTech,free,cancelled,0.0,4.0,40,40,8,Churned,True
+423,SyncStudio,enterprise,cancelled,165.83,6.0,48,48,5,Churned,True
+424,IonVentures,professional,cancelled,44.25,3.0,38,37,4,Churned,True
+425,MetaSolutions,enterprise,active,99.0,7.0,46,42,5,Support Risk,False
+426,TidalStack,starter,active,10.0,2.0,33,32,2,Disengaged Risk,False
+427,EchoVentures,starter,cancelled,15.83,3.0,46,43,6,Churned,True
+428,Xenon Corp,enterprise,cancelled,82.5,6.0,52,49,6,Churned,True
+429,UltraOps,starter,active,10.0,5.0,39,38,3,High Risk (Low Engagement + High Support),False
+430,Jet Dev,starter,active,12.0,4.0,40,38,5,High Risk (Low Engagement + High Support),False
+431,ArcHQ,starter,active,15.83,3.0,37,37,5,High Risk (Low Engagement + High Support),False
+432,Hub Platform,starter,active,9.0,4.0,41,40,4,Support Risk,False
+433,BoltHub,professional,active,59.0,1.0,42,40,3,Healthy,False
+434,Meta Solutions,enterprise,active,82.5,4.0,39,39,4,High Risk (Low Engagement + High Support),False
+435,Link Hub,starter,cancelled,19.0,3.0,45,45,6,Churned,True
+436,CoreOps,free,cancelled,0.0,5.0,49,48,6,Churned,True
+437,Ultra IO,free,active,0.0,7.0,35,35,5,High Risk (Low Engagement + High Support),False
+438,EdgeIO,starter,cancelled,9.0,3.0,32,32,3,Churned,True
+439,Meta Works,professional,active,39.0,8.0,33,32,7,High Risk (Low Engagement + High Support),False
+440,WaveIO,enterprise,active,199.0,4.0,37,37,3,High Risk (Low Engagement + High Support),False
+441,LunaLogic,free,active,0.0,4.0,41,39,4,High Risk (Low Engagement + High Support),False
+442,Warp AI,professional,active,39.0,5.0,47,47,4,Support Risk,False
+443,Trek Logic,starter,active,8.5,5.0,36,34,5,High Risk (Low Engagement + High Support),False
+444,NexusOps,free,cancelled,0.0,5.0,35,34,2,Churned,True
+445,Pulse Platform,enterprise,cancelled,199.0,7.0,28,26,6,Churned,True
+446,RushLabs,free,active,0.0,6.0,51,49,4,Support Risk,False
+447,Beam Software,starter,active,12.0,4.0,50,49,5,Support Risk,False
+448,Vertex Analytics,starter,active,10.0,8.0,37,36,5,High Risk (Low Engagement + High Support),False
+449,QuarkGroup,free,active,0.0,6.0,43,39,6,High Risk (Low Engagement + High Support),False
+450,RushStack,starter,cancelled,8.5,5.0,37,36,3,Churned,True
+451,Arc Analytics,free,cancelled,0.0,5.0,41,39,6,Churned,True
+452,Rush Digital,free,active,0.0,9.0,32,31,6,High Risk (Low Engagement + High Support),False
+453,ArcStudio,professional,cancelled,59.0,5.0,39,38,4,Churned,True
+454,MistSystems,free,cancelled,0.0,4.0,31,30,9,Churned,True
+455,HubWorks,professional,active,32.5,10.0,54,48,4,Support Risk,False
+456,VineOps,free,cancelled,0.0,7.0,45,43,2,Churned,True
+457,Warp Platform,free,active,0.0,9.0,41,41,4,Support Risk,False
+458,VertexNet,starter,active,12.0,9.0,41,39,5,High Risk (Low Engagement + High Support),False
+459,SageLabs,enterprise,active,82.5,3.0,33,32,2,High Risk (Low Engagement + High Support),False
+460,MistOps,professional,active,32.5,6.0,41,40,4,Support Risk,False
+461,Bolt Dynamics,professional,active,59.0,1.0,44,42,5,Healthy,False
+462,Trek Dev,starter,active,15.83,5.0,44,42,5,Support Risk,False
+463,IonCorp,starter,active,10.0,7.0,50,47,8,Support Risk,False
+464,Ion Works,professional,active,39.0,3.0,42,41,6,Support Risk,False
+465,MistNet,enterprise,active,99.0,4.0,31,30,3,High Risk (Low Engagement + High Support),False
+466,Ultra Net,starter,active,19.0,9.0,42,41,5,Support Risk,False
+467,NexusHub,starter,active,12.0,3.0,45,44,4,Support Risk,False
+468,Drift Corp,professional,active,39.0,7.0,38,37,6,High Risk (Low Engagement + High Support),False
+469,SyncSolutions,professional,cancelled,49.17,3.0,49,48,6,Churned,True
+470,Rift Systems,free,active,0.0,3.0,38,36,4,High Risk (Low Engagement + High Support),False
+471,CloudStack,starter,active,12.0,8.0,38,37,3,High Risk (Low Engagement + High Support),False
+472,Pulse Hub,professional,active,26.0,4.0,31,31,6,High Risk (Low Engagement + High Support),False
+473,VineCloud,starter,active,19.0,2.0,48,46,6,Healthy,False
+474,Onyx Corp,starter,active,10.0,7.0,36,34,2,High Risk (Low Engagement + High Support),False
+475,IonOps,professional,paused,49.17,3.0,46,43,9,Churned,False
+476,WaveAnalytics,starter,cancelled,12.0,8.0,35,33,4,Churned,True
+477,Vine Group,starter,active,12.0,3.0,46,43,9,Support Risk,False
+478,TidalGroup,starter,cancelled,12.0,10.0,44,43,3,Churned,True
+479,NovaIO,enterprise,cancelled,199.0,8.0,45,44,5,Churned,True
+480,Zen AI,enterprise,active,99.0,3.0,53,50,10,Support Risk,False
+481,FluxLogic,enterprise,active,99.0,2.0,34,33,3,Disengaged Risk,False
+482,EchoSystems,professional,active,39.0,9.0,55,54,6,Support Risk,False
+483,IonCloud,professional,active,59.0,1.0,34,34,4,Disengaged Risk,False
+484,GridCorp,starter,active,15.83,7.0,35,34,3,High Risk (Low Engagement + High Support),False
+485,EdgeWorks,professional,active,49.17,4.0,46,45,2,Support Risk,False
+486,TrekAI,enterprise,active,99.0,5.0,38,38,4,High Risk (Low Engagement + High Support),False
+487,Hub Software,starter,cancelled,15.83,2.0,33,33,4,Churned,True
+488,MetaHQ,free,active,0.0,6.0,33,33,5,High Risk (Low Engagement + High Support),False
+489,Warp Hub,free,active,0.0,4.0,41,41,4,Support Risk,False
+490,ZealLabs,enterprise,cancelled,199.0,10.0,49,46,4,Churned,True
+491,ArcLogic,free,paused,0.0,4.0,38,37,1,Churned,False
+492,NexusGroup,starter,active,10.8,5.0,38,36,5,High Risk (Low Engagement + High Support),False
+493,Flow Dev,professional,active,39.0,8.0,34,33,4,High Risk (Low Engagement + High Support),False
+494,UnitAI,free,active,0.0,3.0,43,41,3,Support Risk,False
+495,Trek Ventures,professional,active,39.0,3.0,45,44,5,Support Risk,False
+496,Beam Digital,starter,active,19.0,8.0,50,49,6,Support Risk,False
+497,HiveSystems,free,cancelled,0.0,5.0,47,45,7,Churned,True
+498,XenonCloud,professional,active,39.0,4.0,46,45,5,Support Risk,False
+499,AcmeSystems,starter,active,12.0,6.0,47,44,3,Support Risk,False
+500,WarpDigital,professional,active,49.17,3.0,44,43,3,Support Risk,False
+501,Flow Solutions,free,cancelled,0.0,5.0,33,32,4,Churned,True
+502,WarpIO,free,active,0.0,4.0,39,35,5,High Risk (Low Engagement + High Support),False
+503,Bolt Works,professional,cancelled,39.0,5.0,44,43,3,Churned,True
+504,Nexus Works,enterprise,active,89.1,3.0,37,36,8,High Risk (Low Engagement + High Support),False
+505,Mist Ventures,free,paused,0.0,7.0,37,36,7,Churned,False
+506,BoltAnalytics,starter,cancelled,12.0,9.0,37,37,3,Churned,True
+507,IrisSolutions,starter,cancelled,14.25,2.0,43,42,7,Churned,True
+508,Glow Cloud,professional,active,50.15,7.0,35,34,8,High Risk (Low Engagement + High Support),False
+509,WarpNet,professional,active,59.0,4.0,46,45,7,Support Risk,False
+510,RiftSolutions,starter,active,10.0,9.0,46,45,5,Support Risk,False
+511,WaveLogic,free,cancelled,0.0,6.0,48,47,5,Churned,True
+512,RiftNet,starter,active,8.5,7.0,48,47,5,Support Risk,False
+513,AcmeSoftware,free,active,0.0,3.0,41,38,4,High Risk (Low Engagement + High Support),False
+514,Edge Digital,professional,active,39.0,5.0,37,36,5,High Risk (Low Engagement + High Support),False
+515,AcmeCorp,professional,active,32.5,7.0,32,31,5,High Risk (Low Engagement + High Support),False
+516,DataAnalytics,professional,active,41.79,3.0,34,34,4,High Risk (Low Engagement + High Support),False
+517,Tidal Tech,enterprise,cancelled,99.0,5.0,46,45,6,Churned,True
+518,HivePlatform,starter,active,19.0,6.0,46,46,4,Support Risk,False
+519,IonAI,starter,active,12.0,5.0,43,40,2,Support Risk,False
+520,OrbitGroup,professional,active,32.5,4.0,46,45,3,Support Risk,False
+521,HiveWorks,starter,active,10.0,6.0,54,52,4,Support Risk,False
+522,GlowStack,professional,cancelled,35.1,4.0,38,37,5,Churned,True
+523,PulseDev,starter,cancelled,12.0,2.0,36,34,4,Churned,True
+524,LinkVentures,free,cancelled,0.0,3.0,53,50,6,Churned,True
+525,VertexPro,enterprise,cancelled,82.5,3.0,41,41,6,Churned,True
+526,Quark Pro,free,active,0.0,9.0,47,45,6,Support Risk,False
+527,VertexSoftware,professional,active,49.17,2.0,35,34,5,Disengaged Risk,False
+528,MetaSoftware,free,cancelled,0.0,5.0,45,43,6,Churned,True
+529,IonDev,starter,active,10.0,5.0,53,50,5,Support Risk,False
+530,FluxDev,starter,active,9.0,2.0,36,33,4,Disengaged Risk,False
+531,NovaPlatform,free,active,0.0,4.0,37,36,3,High Risk (Low Engagement + High Support),False
+532,SyncHQ,starter,active,10.0,9.0,37,35,3,High Risk (Low Engagement + High Support),False
+533,Edge Studio,starter,cancelled,8.0,4.0,28,28,3,Churned,True
+534,QuarkCloud,professional,active,59.0,2.0,53,51,6,Healthy,False
+535,ZenVentures,professional,active,49.17,7.0,48,47,6,Support Risk,False
+536,UnitHQ,enterprise,cancelled,99.0,6.0,43,42,6,Churned,True
+537,VineLabs,starter,active,12.0,3.0,48,47,4,Support Risk,False
+538,IonDigital,professional,active,39.0,9.0,52,50,6,Support Risk,False
+539,GridWorks,enterprise,active,82.5,10.0,35,35,6,High Risk (Low Engagement + High Support),False
+540,Quest Dev,free,cancelled,0.0,3.0,33,33,3,Churned,True
+541,TidalCorp,enterprise,active,199.0,8.0,40,39,4,High Risk (Low Engagement + High Support),False
+542,ZenGroup,free,active,0.0,2.0,38,37,5,Disengaged Risk,False
+543,Nexus Pro,professional,cancelled,49.17,10.0,44,43,5,Churned,True
+544,SagePro,enterprise,active,89.1,4.0,51,47,7,Support Risk,False
+545,Sage Ops,enterprise,active,99.0,8.0,48,48,6,Support Risk,False
+546,Jade Ops,enterprise,cancelled,82.5,3.0,45,44,5,Churned,True
+547,Trek AI,professional,active,39.0,6.0,41,40,7,Support Risk,False
+548,Zeal Logic,starter,active,15.83,6.0,41,38,5,High Risk (Low Engagement + High Support),False
+549,QuestSolutions,professional,active,32.5,8.0,42,41,7,Support Risk,False
+550,Ultra Solutions,starter,active,12.0,5.0,54,53,7,Support Risk,False
+551,FluxSystems,starter,active,15.83,6.0,37,34,4,High Risk (Low Engagement + High Support),False
+552,Bolt Group,starter,active,10.0,7.0,34,33,2,High Risk (Low Engagement + High Support),False
+553,TidalPlatform,starter,active,12.0,3.0,39,38,4,High Risk (Low Engagement + High Support),False
+554,Ultra Stack,professional,active,44.25,5.0,53,50,8,Support Risk,False
+555,QuestPlatform,enterprise,cancelled,74.25,13.0,53,50,4,Churned,True
+556,Link Dynamics,starter,active,19.0,2.0,35,31,2,Disengaged Risk,False
+557,KeenHQ,free,active,0.0,4.0,41,37,4,High Risk (Low Engagement + High Support),False
+558,FlowHub,professional,active,29.25,6.0,47,44,5,Support Risk,False
+559,VertexDigital,professional,active,59.0,4.0,41,40,6,Support Risk,False
+560,FluxCloud,starter,active,15.83,6.0,33,30,3,High Risk (Low Engagement + High Support),False
+561,GlowNet,starter,active,12.0,4.0,42,40,7,Support Risk,False
+562,SageOps,starter,cancelled,9.0,3.0,39,39,2,Churned,True
+563,HiveSoftware,starter,active,10.0,2.0,37,37,3,Disengaged Risk,False
+564,GridStack,professional,active,49.17,6.0,39,38,5,High Risk (Low Engagement + High Support),False
+565,Xenon Solutions,starter,active,10.0,4.0,33,33,3,High Risk (Low Engagement + High Support),False
+566,QuarkCorp,professional,active,39.0,4.0,32,32,5,High Risk (Low Engagement + High Support),False
+567,Acme Ops,starter,active,19.0,6.0,32,32,4,High Risk (Low Engagement + High Support),False
+568,VertexWorks,free,active,0.0,3.0,39,36,2,High Risk (Low Engagement + High Support),False
+569,Hive Analytics,starter,cancelled,10.2,2.0,34,33,3,Churned,True
+570,VineWorks,professional,active,32.5,8.0,55,50,6,Support Risk,False
+571,Meta Net,professional,active,27.62,3.0,32,32,5,High Risk (Low Engagement + High Support),False
+572,KiteHQ,enterprise,cancelled,74.25,9.0,37,35,6,Churned,True
+573,UnitAnalytics,professional,active,49.17,5.0,48,47,5,Support Risk,False
+574,PeakWorks,free,active,0.0,5.0,37,36,6,High Risk (Low Engagement + High Support),False
+575,VineVentures,enterprise,cancelled,82.5,7.0,37,37,3,Churned,True
+576,UltraHub,professional,active,32.5,7.0,46,44,8,Support Risk,False
+577,FluxOps,enterprise,active,165.83,4.0,42,41,2,Support Risk,False
+578,TrekVentures,starter,active,10.0,8.0,43,41,5,Support Risk,False
+579,Zeal Solutions,professional,active,32.5,2.0,43,40,8,Healthy,False
+580,WarpLogic,enterprise,active,82.5,7.0,43,42,6,Support Risk,False
+581,Sage IO,free,active,0.0,2.0,40,39,5,Disengaged Risk,False
+582,YieldCorp,free,active,0.0,3.0,47,46,7,Support Risk,False
+583,Flux Cloud,free,active,0.0,4.0,41,40,4,Support Risk,False
+584,Flow Systems,professional,active,32.5,4.0,49,47,8,Support Risk,False
+585,YieldIO,starter,active,10.0,2.0,48,48,4,Healthy,False
+586,EdgeDev,professional,active,39.0,6.0,50,48,4,Support Risk,False
+587,Nova Stack,professional,paused,39.0,3.0,33,32,2,Churned,False
+588,QuestDynamics,enterprise,active,82.5,3.0,56,53,6,Support Risk,False
+589,Tidal Software,professional,active,49.17,8.0,38,36,4,High Risk (Low Engagement + High Support),False
+590,DriftTech,starter,active,15.83,6.0,47,44,5,Support Risk,False
+591,ArcDigital,starter,active,10.0,5.0,44,43,7,Support Risk,False
+592,HubSolutions,free,active,0.0,2.0,46,43,7,Healthy,False
+593,Vine Ops,free,cancelled,0.0,5.0,43,41,5,Churned,True
+594,UnitStack,enterprise,active,74.25,7.0,40,36,4,High Risk (Low Engagement + High Support),False
+595,FlowSolutions,free,active,0.0,7.0,50,48,4,Support Risk,False
+596,SageDynamics,free,active,0.0,6.0,43,40,4,Support Risk,False
+597,LunaTech,professional,active,49.17,4.0,47,46,2,Support Risk,False
+598,SyncCloud,enterprise,active,99.0,8.0,50,47,7,Support Risk,False
+599,DriftGroup,professional,cancelled,39.0,5.0,29,29,4,Churned,True
+600,HiveDev,starter,active,10.0,8.0,45,42,5,Support Risk,False
+601,GridHQ,free,cancelled,0.0,8.0,34,34,4,Churned,True
+602,Echo Ops,starter,active,10.0,4.0,36,34,8,High Risk (Low Engagement + High Support),False
+603,IonSystems,starter,active,10.0,11.0,47,45,6,Support Risk,False
+604,Jet Pro,enterprise,cancelled,99.0,1.0,38,35,5,Churned,True
+605,BeamLabs,free,active,0.0,5.0,38,35,6,High Risk (Low Engagement + High Support),False
+606,HubAnalytics,professional,active,59.0,7.0,40,36,7,High Risk (Low Engagement + High Support),False
+607,Flux Studio,starter,active,12.0,2.0,49,45,5,Healthy,False
+608,Link Logic,free,active,0.0,8.0,35,35,4,High Risk (Low Engagement + High Support),False
+609,TidalPro,free,active,0.0,3.0,51,46,4,Support Risk,False
+610,Arc Dev,enterprise,cancelled,99.0,3.0,43,43,4,Churned,True
+611,RiftDynamics,free,cancelled,0.0,10.0,45,43,5,Churned,True
+612,Hub Solutions,starter,active,12.0,2.0,42,42,4,Healthy,False
+613,MistStudio,professional,active,39.0,4.0,47,45,4,Support Risk,False
+614,QuestHub,starter,active,9.6,7.0,40,36,6,High Risk (Low Engagement + High Support),False
+615,Unit Corp,starter,active,12.0,2.0,40,38,5,Disengaged Risk,False
+616,KiteSolutions,enterprise,cancelled,165.83,8.0,43,40,5,Churned,True
+617,AcmeHub,free,cancelled,0.0,8.0,37,37,4,Churned,True
+618,Echo Hub,starter,active,19.0,3.0,30,28,6,High Risk (Low Engagement + High Support),False
+619,Orbit Labs,starter,active,15.2,4.0,35,34,2,High Risk (Low Engagement + High Support),False
+620,OrbitSystems,starter,cancelled,15.83,9.0,41,38,3,Churned,True
+621,NexusCloud,starter,active,12.0,6.0,32,30,4,High Risk (Low Engagement + High Support),False
+622,JetLogic,free,active,0.0,4.0,39,39,4,High Risk (Low Engagement + High Support),False
+623,FluxCorp,professional,active,32.5,6.0,50,47,5,Support Risk,False
+624,ArcDev,free,active,0.0,4.0,36,34,4,High Risk (Low Engagement + High Support),False
+625,DataStudio,enterprise,active,89.1,2.0,40,39,4,Disengaged Risk,False
+626,Unit Labs,starter,cancelled,12.0,3.0,45,44,6,Churned,True
+627,Luna IO,starter,active,12.0,4.0,55,52,5,Support Risk,False
+628,Kite Labs,starter,active,14.25,1.0,45,45,6,Healthy,False
+629,FlowDev,enterprise,active,82.5,3.0,51,50,6,Support Risk,False
+630,Xenon Stack,professional,cancelled,39.0,9.0,39,36,5,Churned,True
+631,Cloud Platform,free,active,0.0,2.0,42,41,4,Healthy,False
+632,Warp Logic,starter,active,12.0,4.0,37,37,6,High Risk (Low Engagement + High Support),False
+633,Jet Ops,starter,active,8.0,4.0,37,37,5,High Risk (Low Engagement + High Support),False
+634,CoreDigital,professional,cancelled,39.0,7.0,49,49,8,Churned,True
+635,Tidal Dynamics,free,active,0.0,8.0,47,44,5,Support Risk,False
+636,QuarkIO,starter,active,12.0,5.0,35,35,3,High Risk (Low Engagement + High Support),False
+637,CoreStudio,free,cancelled,0.0,10.0,31,31,6,Churned,True
+638,Kite Ventures,free,active,0.0,4.0,44,42,6,Support Risk,False
+639,ZenHub,free,cancelled,0.0,5.0,50,48,8,Churned,True
+640,MistHub,free,active,0.0,5.0,39,36,4,High Risk (Low Engagement + High Support),False
+641,Zen Tech,free,cancelled,0.0,7.0,27,25,6,Churned,True
+642,KiteSoftware,professional,active,59.0,2.0,39,38,6,Disengaged Risk,False
+643,EdgePro,professional,active,59.0,8.0,35,35,3,High Risk (Low Engagement + High Support),False
+644,Nova Pro,starter,active,12.0,4.0,41,40,8,Support Risk,False
+645,BoltCloud,starter,active,12.0,6.0,54,52,8,Support Risk,False
+646,LunaDynamics,starter,active,15.83,1.0,53,52,6,Healthy,False
+647,Vine Hub,professional,active,59.0,3.0,31,31,1,High Risk (Low Engagement + High Support),False
+648,DriftCorp,starter,active,12.0,4.0,47,46,3,Support Risk,False
+649,Arc AI,professional,active,59.0,5.0,39,38,4,High Risk (Low Engagement + High Support),False
+650,Peak Logic,starter,active,15.83,0.0,43,41,4,Healthy,False
+651,Ultra Software,starter,active,15.83,6.0,46,45,6,Support Risk,False
+652,DriftStack,starter,active,15.83,3.0,44,42,2,Support Risk,False
+653,RushTech,free,active,0.0,6.0,35,34,3,High Risk (Low Engagement + High Support),False
+654,Bolt Corp,professional,active,39.0,8.0,41,41,4,Support Risk,False
+655,QuestVentures,enterprise,active,199.0,5.0,47,44,3,Support Risk,False
+656,MistLabs,free,active,0.0,6.0,46,44,7,Support Risk,False
+657,Flow Studio,professional,cancelled,29.25,4.0,34,33,1,Churned,True
+658,ZenSystems,professional,active,59.0,4.0,43,41,6,Support Risk,False
+659,MistLogic,professional,active,59.0,3.0,48,48,3,Support Risk,False
+660,Nova Ops,starter,active,12.0,6.0,51,46,6,Support Risk,False
+661,MistSoftware,enterprise,active,179.1,2.0,49,44,4,Healthy,False
+662,Flux IO,free,cancelled,0.0,3.0,32,31,3,Churned,True
+663,Peak Labs,professional,cancelled,49.17,6.0,49,48,6,Churned,True
+664,FluxStack,starter,active,19.0,2.0,42,41,6,Healthy,False
+665,Xenon Dynamics,enterprise,active,99.0,4.0,36,36,5,High Risk (Low Engagement + High Support),False
+666,Ion Ventures,professional,cancelled,59.0,1.0,48,47,4,Churned,True
+667,PulseOps,free,active,0.0,2.0,35,33,5,Disengaged Risk,False
+668,LinkHub,professional,active,32.5,4.0,39,39,5,High Risk (Low Engagement + High Support),False
+669,Rush Corp,free,cancelled,0.0,7.0,32,32,6,Churned,True
+670,Jade Tech,free,cancelled,0.0,4.0,31,30,2,Churned,True
+671,Luna Group,starter,cancelled,12.0,4.0,42,41,4,Churned,True
+672,RushPlatform,starter,active,12.0,3.0,47,45,5,Support Risk,False
+673,Glow Net,professional,active,53.1,2.0,41,41,6,Healthy,False
+674,Quark Tech,starter,cancelled,12.0,1.0,32,31,3,Churned,True
+675,OrbitDev,starter,active,10.0,2.0,41,41,3,Healthy,False
+676,WaveCloud,free,cancelled,0.0,6.0,37,37,6,Churned,True
+677,SageCorp,professional,active,59.0,6.0,49,47,6,Support Risk,False
+678,QuarkOps,starter,active,13.46,2.0,44,43,4,Healthy,False
+679,Rift Digital,professional,active,39.0,4.0,42,42,4,Support Risk,False
+680,DataIO,starter,active,12.0,2.0,36,36,3,Disengaged Risk,False
+681,Unit Software,free,active,0.0,5.0,43,42,3,Support Risk,False
+682,KeenCorp,enterprise,active,99.0,5.0,28,27,4,High Risk (Low Engagement + High Support),False
+683,Core Net,professional,cancelled,44.25,9.0,34,34,5,Churned,True
+684,Tidal Platform,starter,active,12.0,3.0,33,32,5,High Risk (Low Engagement + High Support),False
+685,Peak Systems,starter,active,15.83,4.0,45,45,4,Support Risk,False
+686,SageSoftware,free,active,0.0,4.0,40,38,5,High Risk (Low Engagement + High Support),False
+687,Edge Labs,enterprise,active,82.5,4.0,44,43,4,Support Risk,False
+688,ZenIO,free,active,0.0,7.0,45,44,2,Support Risk,False
+689,KiteDev,free,active,0.0,9.0,36,36,4,High Risk (Low Engagement + High Support),False
+690,HubVentures,starter,active,12.67,8.0,47,47,6,Support Risk,False
+691,AcmeSolutions,professional,cancelled,49.17,5.0,37,36,5,Churned,True
+692,RushHub,free,active,0.0,6.0,41,41,4,Support Risk,False
+693,IonNet,free,cancelled,0.0,5.0,47,45,6,Churned,True
+694,GridSolutions,free,active,0.0,1.0,41,40,6,Healthy,False
+695,YieldDigital,professional,active,31.2,4.0,43,42,7,Support Risk,False
+696,LinkLabs,professional,active,32.5,6.0,47,45,8,Support Risk,False
+697,EchoDev,enterprise,active,149.25,2.0,42,42,2,Healthy,False
+698,DataGroup,professional,active,49.17,6.0,43,42,1,Support Risk,False
+699,Sage Systems,free,cancelled,0.0,3.0,42,40,5,Churned,True
+700,WarpOps,professional,active,49.17,6.0,44,43,4,Support Risk,False
+701,Cloud IO,professional,cancelled,49.17,5.0,53,50,3,Churned,True
+702,RiftOps,free,active,0.0,4.0,38,37,1,High Risk (Low Engagement + High Support),False
+703,WaveSoftware,free,cancelled,0.0,4.0,32,30,3,Churned,True
+704,DataDigital,enterprise,active,99.0,5.0,30,28,5,High Risk (Low Engagement + High Support),False
+705,IrisSoftware,professional,active,59.0,2.0,46,45,8,Healthy,False
+706,TrekGroup,free,paused,0.0,4.0,38,38,1,Churned,False
+707,PeakHub,starter,cancelled,10.0,10.0,45,42,4,Churned,True
+708,Luna Ops,professional,active,29.25,7.0,41,40,3,Support Risk,False
+709,UnitGroup,starter,active,19.0,4.0,45,43,8,Support Risk,False
+710,BeamVentures,starter,paused,19.0,3.0,46,46,4,Churned,False
+711,FlowPlatform,professional,active,39.0,4.0,32,32,7,High Risk (Low Engagement + High Support),False
+712,Cloud Studio,enterprise,active,99.0,3.0,28,27,5,High Risk (Low Engagement + High Support),False
+713,Onyx Solutions,professional,active,39.0,7.0,37,35,4,High Risk (Low Engagement + High Support),False
+714,DataNet,starter,active,10.2,2.0,39,38,2,Disengaged Risk,False
+715,Beam Cloud,professional,active,49.17,2.0,36,33,4,Disengaged Risk,False
+716,Mist Software,professional,active,39.0,6.0,37,35,3,High Risk (Low Engagement + High Support),False
+717,Edge Platform,professional,active,59.0,6.0,44,44,6,Support Risk,False
+718,Keen Cloud,enterprise,cancelled,82.5,5.0,52,49,5,Churned,True
+719,GlowTech,starter,active,12.0,7.0,56,56,5,Support Risk,False
+720,MistAnalytics,free,active,0.0,2.0,49,48,1,Healthy,False
+721,Quark Hub,enterprise,active,199.0,3.0,37,35,2,High Risk (Low Engagement + High Support),False
+722,Sage Dynamics,professional,active,32.5,8.0,54,52,8,Support Risk,False
+723,CoreCorp,enterprise,paused,99.0,5.0,44,44,7,Churned,False
+724,JetLabs,professional,cancelled,59.0,9.0,55,54,7,Churned,True
+725,SyncWorks,free,active,0.0,1.0,47,45,5,Healthy,False
+726,Kite Cloud,professional,active,59.0,6.0,55,52,5,Support Risk,False
+727,MistAI,free,active,0.0,6.0,47,45,4,Support Risk,False
+728,HubHQ,professional,cancelled,39.33,4.0,41,40,9,Churned,True
+729,Sage Works,starter,active,19.0,5.0,42,40,8,Support Risk,False
+730,Echo Digital,starter,active,12.0,1.0,45,44,6,Healthy,False
+731,Yield Stack,enterprise,active,199.0,6.0,47,45,7,Support Risk,False
+732,SyncCorp,free,active,0.0,6.0,47,45,7,Support Risk,False
+733,FluxGroup,starter,active,10.8,1.0,35,34,4,Disengaged Risk,False
+734,KeenSolutions,professional,active,36.88,8.0,41,39,3,High Risk (Low Engagement + High Support),False
+735,ZealHub,starter,active,10.0,6.0,43,41,3,Support Risk,False
+736,AcmeAI,professional,active,59.0,6.0,43,40,6,Support Risk,False
+737,ZenDigital,enterprise,paused,165.83,4.0,39,37,2,Churned,False
+738,GridPro,starter,active,12.0,4.0,47,46,6,Support Risk,False
+739,YieldCloud,starter,active,10.0,3.0,39,37,4,High Risk (Low Engagement + High Support),False
+740,CorePlatform,enterprise,active,199.0,5.0,32,32,4,High Risk (Low Engagement + High Support),False
+741,Jet Logic,free,active,0.0,5.0,47,46,8,Support Risk,False
+742,CloudWorks,professional,active,39.0,3.0,45,43,6,Support Risk,False
+743,GlowDynamics,free,cancelled,0.0,4.0,36,36,5,Churned,True
+744,CloudCorp,enterprise,active,89.1,5.0,41,40,5,Support Risk,False
+745,NovaGroup,free,active,0.0,7.0,55,53,5,Support Risk,False
+746,EchoTech,starter,active,19.0,6.0,43,41,2,Support Risk,False
+747,Meta Analytics,professional,active,33.15,7.0,41,39,4,High Risk (Low Engagement + High Support),False
+748,Nova Analytics,starter,active,10.0,6.0,51,50,9,Support Risk,False
+749,Orbit Software,starter,cancelled,19.0,6.0,53,52,7,Churned,True
+750,TidalDev,free,active,0.0,10.0,44,44,2,Support Risk,False
+751,Xenon HQ,starter,active,19.0,4.0,45,44,6,Support Risk,False
+752,AcmeVentures,professional,cancelled,39.0,2.0,37,37,5,Churned,True
+753,TrekIO,starter,active,12.0,7.0,25,24,5,High Risk (Low Engagement + High Support),False
+754,Ion Tech,free,active,0.0,1.0,35,34,5,Disengaged Risk,False
+755,VertexOps,free,active,0.0,5.0,39,37,2,High Risk (Low Engagement + High Support),False
+756,Core AI,free,active,0.0,7.0,35,35,7,High Risk (Low Engagement + High Support),False
+757,Link Stack,professional,active,49.17,6.0,39,38,5,High Risk (Low Engagement + High Support),False
+758,VineHub,professional,cancelled,49.17,4.0,37,35,5,Churned,True
+759,LinkStudio,free,active,0.0,5.0,33,33,4,High Risk (Low Engagement + High Support),False
+760,SyncSoftware,starter,cancelled,19.0,4.0,35,34,2,Churned,True
+761,EchoDigital,starter,active,12.0,9.0,41,40,3,Support Risk,False
+762,Wave Cloud,starter,active,19.0,7.0,42,42,6,Support Risk,False
+763,CloudPlatform,enterprise,active,99.0,2.0,33,32,2,Disengaged Risk,False
+764,Quest Works,professional,cancelled,53.1,2.0,32,30,2,Churned,True
+765,Nova Corp,free,cancelled,0.0,5.0,46,44,5,Churned,True
+766,QuestLogic,professional,active,59.0,5.0,31,31,6,High Risk (Low Engagement + High Support),False
+767,Mist Solutions,enterprise,active,199.0,6.0,44,42,6,Support Risk,False
+768,BeamTech,starter,active,15.83,6.0,30,29,3,High Risk (Low Engagement + High Support),False
+769,UnitSystems,enterprise,active,89.1,3.0,60,56,8,Support Risk,False
+770,BeamAnalytics,professional,active,39.0,7.0,25,24,3,High Risk (Low Engagement + High Support),False
+771,Vertex Net,professional,cancelled,59.0,13.0,46,45,4,Churned,True
+772,SyncHub,free,cancelled,0.0,2.0,46,45,7,Churned,True
+773,Flux Corp,starter,cancelled,10.0,2.0,47,46,1,Churned,True
+774,YieldDev,free,active,0.0,8.0,37,37,4,High Risk (Low Engagement + High Support),False
+775,HubSoftware,starter,active,12.0,8.0,42,41,5,Support Risk,False
+776,Arc Software,starter,cancelled,12.0,4.0,39,37,1,Churned,True
+777,LinkCorp,starter,active,12.0,10.0,37,33,2,High Risk (Low Engagement + High Support),False
+778,Yield Analytics,starter,active,19.0,6.0,47,47,4,Support Risk,False
+779,TidalCloud,enterprise,active,89.1,7.0,48,46,5,Support Risk,False
+780,IonLogic,starter,active,10.8,3.0,46,45,6,Support Risk,False
+781,JadeCorp,starter,active,15.83,6.0,35,34,7,High Risk (Low Engagement + High Support),False
+782,Core Solutions,free,active,0.0,5.0,43,41,5,Support Risk,False
+783,Nexus Dev,free,active,0.0,3.0,42,41,2,Support Risk,False
+784,TrekSoftware,starter,active,16.15,5.0,41,39,6,High Risk (Low Engagement + High Support),False
+785,MistWorks,professional,active,39.0,7.0,37,35,5,High Risk (Low Engagement + High Support),False
+786,Zeal Group,starter,active,14.25,6.0,47,47,7,Support Risk,False
+787,UnitSolutions,starter,active,10.0,2.0,37,33,5,Disengaged Risk,False
+788,WarpAnalytics,free,cancelled,0.0,4.0,39,39,2,Churned,True
+789,TrekSolutions,professional,active,39.0,5.0,31,30,2,High Risk (Low Engagement + High Support),False
+790,Acme Analytics,starter,cancelled,12.0,4.0,41,39,5,Churned,True
+791,EchoSolutions,professional,active,32.5,5.0,53,49,9,Support Risk,False
+792,Onyx Systems,professional,active,32.5,1.0,44,43,8,Healthy,False
+793,Peak Platform,enterprise,cancelled,82.5,3.0,30,30,5,Churned,True
+794,PulseVentures,professional,active,49.17,1.0,40,38,6,Disengaged Risk,False
+795,Acme Ventures,professional,active,49.17,6.0,50,47,5,Support Risk,False
+796,Iris Platform,free,active,0.0,10.0,43,42,5,Support Risk,False
+797,EdgeHub,starter,active,12.0,4.0,43,43,5,Support Risk,False
+798,NexusSoftware,starter,active,19.0,4.0,36,34,2,High Risk (Low Engagement + High Support),False
+799,Quark IO,professional,active,49.17,3.0,40,37,4,High Risk (Low Engagement + High Support),False
+800,Arc Studio,professional,active,59.0,8.0,42,40,6,Support Risk,False
+801,UltraCorp,professional,cancelled,59.0,4.0,40,38,5,Churned,True
+802,CloudHub,professional,active,32.5,6.0,49,48,5,Support Risk,False
+803,Vine Tech,professional,cancelled,32.5,3.0,37,36,2,Churned,True
+804,Zeal Tech,free,cancelled,0.0,4.0,31,29,5,Churned,True
+805,Arc Corp,professional,active,32.5,4.0,48,47,8,Support Risk,False
+806,Vertex Stack,starter,active,19.0,3.0,43,43,3,Support Risk,False
+807,WarpTech,enterprise,cancelled,84.15,10.0,43,43,8,Churned,True
+808,BoltLogic,starter,active,15.83,6.0,50,48,5,Support Risk,False
+809,Zeal Digital,professional,active,39.0,5.0,38,37,4,High Risk (Low Engagement + High Support),False
+810,Kite Corp,professional,active,32.5,4.0,41,40,6,Support Risk,False
+811,Yield Ventures,free,cancelled,0.0,5.0,40,37,5,Churned,True
+812,BoltLabs,professional,paused,33.15,4.0,45,43,5,Churned,False
+813,EchoLabs,starter,cancelled,12.0,0.0,41,39,4,Churned,True
+814,Nexus Corp,free,cancelled,0.0,4.0,28,28,3,Churned,True
+815,Echo AI,starter,cancelled,9.0,4.0,57,57,6,Churned,True
+816,Mist Stack,professional,active,39.0,4.0,34,34,4,High Risk (Low Engagement + High Support),False
+817,IonPlatform,starter,active,12.0,7.0,46,45,7,Support Risk,False
+818,KeenAnalytics,starter,active,9.0,2.0,31,31,5,Disengaged Risk,False
+819,AcmeDigital,professional,active,39.0,4.0,35,35,2,High Risk (Low Engagement + High Support),False
+820,CoreSoftware,professional,cancelled,39.0,5.0,39,39,4,Churned,True
+821,VertexHub,professional,active,32.5,3.0,44,40,4,Support Risk,False
+822,GlowSolutions,starter,active,10.0,10.0,32,31,4,High Risk (Low Engagement + High Support),False
+823,IrisStudio,professional,active,49.17,5.0,41,37,5,High Risk (Low Engagement + High Support),False
+824,Zen Cloud,enterprise,active,82.5,2.0,53,52,5,Healthy,False
+825,KiteHub,enterprise,active,82.5,4.0,57,57,4,Support Risk,False
+826,UltraLabs,professional,active,49.17,4.0,31,31,6,High Risk (Low Engagement + High Support),False
+827,VertexAnalytics,starter,active,10.0,4.0,62,59,5,Support Risk,False
+828,OnyxSystems,free,active,0.0,6.0,41,39,3,High Risk (Low Engagement + High Support),False
+829,Grid Ventures,starter,active,15.83,4.0,48,46,6,Support Risk,False
+830,Peak HQ,free,active,0.0,7.0,44,44,3,Support Risk,False
+831,BoltPro,free,cancelled,0.0,6.0,54,51,6,Churned,True
+832,WarpStudio,professional,cancelled,39.0,5.0,37,35,6,Churned,True
+833,NexusIO,starter,cancelled,10.0,2.0,45,44,6,Churned,True
+834,Trek Group,starter,active,12.0,5.0,39,39,5,High Risk (Low Engagement + High Support),False
+835,Orbit Net,professional,active,39.0,2.0,44,41,3,Healthy,False
+836,Xenon Analytics,professional,active,49.17,2.0,51,48,5,Healthy,False
+837,Mist Platform,free,active,0.0,7.0,40,39,6,High Risk (Low Engagement + High Support),False
+838,Core Dynamics,professional,active,29.25,10.0,37,37,4,High Risk (Low Engagement + High Support),False
+839,TrekHub,starter,active,19.0,5.0,42,40,6,Support Risk,False
+840,ZealDynamics,starter,active,15.83,6.0,46,43,6,Support Risk,False
+841,PulseGroup,professional,active,59.0,5.0,41,41,5,Support Risk,False
+842,Tidal Studio,professional,active,39.0,3.0,38,38,3,High Risk (Low Engagement + High Support),False
+843,Jade AI,professional,cancelled,33.15,4.0,37,37,2,Churned,True
+844,MetaStack,starter,active,10.0,4.0,45,42,2,Support Risk,False
+845,CoreLabs,starter,active,19.0,3.0,41,40,5,Support Risk,False
+846,YieldHQ,professional,cancelled,32.5,2.0,46,45,8,Churned,True
+847,HiveTech,starter,active,12.0,8.0,35,34,1,High Risk (Low Engagement + High Support),False
+848,ZenCorp,starter,active,12.0,4.0,31,30,6,High Risk (Low Engagement + High Support),False
+849,Flow Cloud,enterprise,active,99.0,6.0,39,35,5,High Risk (Low Engagement + High Support),False
+850,RiftCorp,starter,cancelled,15.83,2.0,43,41,7,Churned,True
+851,NovaVentures,starter,active,12.0,4.0,40,39,3,High Risk (Low Engagement + High Support),False
+852,OrbitStudio,professional,active,59.0,7.0,38,38,3,High Risk (Low Engagement + High Support),False
+853,PeakPro,starter,active,12.0,5.0,33,32,3,High Risk (Low Engagement + High Support),False
+854,VineAnalytics,professional,active,59.0,6.0,38,37,8,High Risk (Low Engagement + High Support),False
+855,FlowDynamics,starter,cancelled,12.0,4.0,41,40,3,Churned,True
+856,QuestDev,free,active,0.0,3.0,45,41,7,Support Risk,False
+857,Sync Dev,professional,active,47.2,4.0,40,37,6,High Risk (Low Engagement + High Support),False
+858,Ultra AI,starter,active,10.0,5.0,40,39,5,High Risk (Low Engagement + High Support),False
+859,Orbit Hub,starter,active,19.0,6.0,43,43,4,Support Risk,False
+860,Flux Group,professional,cancelled,32.5,3.0,51,49,8,Churned,True
+861,KiteStudio,starter,cancelled,10.0,2.0,30,30,1,Churned,True
+862,Nova Net,free,active,0.0,5.0,50,50,7,Support Risk,False
+863,TidalHub,professional,cancelled,32.5,12.0,48,47,4,Churned,True
+864,Zen Ventures,starter,active,9.0,5.0,39,39,6,High Risk (Low Engagement + High Support),False
+865,FlowWorks,starter,active,15.83,4.0,47,44,5,Support Risk,False
+866,Jade Solutions,professional,active,59.0,3.0,46,45,9,Support Risk,False
+867,HubOps,professional,cancelled,24.38,11.0,48,45,9,Churned,True
+868,Tidal Ops,professional,active,39.0,3.0,34,34,4,High Risk (Low Engagement + High Support),False
+869,BoltGroup,starter,active,15.83,2.0,41,39,6,Disengaged Risk,False
+870,QuarkHQ,professional,active,39.0,2.0,42,41,6,Healthy,False
+871,Yield Software,starter,active,9.0,2.0,30,28,3,Disengaged Risk,False
+872,Meta IO,enterprise,cancelled,165.83,5.0,47,44,5,Churned,True
+873,EdgeLabs,free,active,0.0,3.0,44,41,5,Support Risk,False
+874,MetaPro,starter,active,12.0,4.0,38,37,1,High Risk (Low Engagement + High Support),False
+875,JetDynamics,professional,cancelled,59.0,12.0,33,33,4,Churned,True
+876,Wave Pro,starter,active,8.0,5.0,45,42,5,Support Risk,False
+877,FlowOps,enterprise,active,61.88,5.0,39,37,6,High Risk (Low Engagement + High Support),False
+878,EchoStudio,starter,active,12.0,8.0,41,41,4,Support Risk,False
+879,DriftHQ,free,cancelled,0.0,4.0,39,38,1,Churned,True
+880,JetVentures,free,active,0.0,2.0,53,51,7,Healthy,False
+881,OrbitSoftware,free,active,0.0,4.0,50,49,6,Support Risk,False
+882,JetPlatform,professional,active,49.17,7.0,35,34,3,High Risk (Low Engagement + High Support),False
+883,OrbitWorks,enterprise,active,199.0,12.0,40,38,3,High Risk (Low Engagement + High Support),False
+884,PulseIO,free,active,0.0,2.0,35,34,7,Disengaged Risk,False
+885,Jet Studio,free,active,0.0,5.0,50,48,3,Support Risk,False
+886,Mist Group,starter,active,14.25,5.0,49,47,6,Support Risk,False
+887,Sync Labs,starter,active,15.83,6.0,44,42,5,Support Risk,False
+888,Ultra Dynamics,professional,cancelled,59.0,3.0,28,28,3,Churned,True
+889,GlowAI,free,cancelled,0.0,2.0,43,39,5,Churned,True
+890,Flow Software,professional,active,35.1,7.0,43,41,5,Support Risk,False
+891,WarpPlatform,starter,active,19.0,6.0,41,41,6,Support Risk,False
+892,Link AI,starter,cancelled,15.83,3.0,38,38,7,Churned,True
+893,RushDynamics,professional,active,39.0,5.0,36,36,3,High Risk (Low Engagement + High Support),False
+894,Yield Systems,professional,active,39.0,8.0,43,42,4,Support Risk,False
+895,Bolt Cloud,starter,active,12.0,2.0,38,37,4,Disengaged Risk,False
+896,FluxIO,enterprise,cancelled,99.0,4.0,37,36,5,Churned,True
+897,CoreLogic,free,active,0.0,6.0,48,46,6,Support Risk,False
+898,Nova Systems,professional,cancelled,32.5,6.0,42,41,5,Churned,True
+899,Rift Logic,free,active,0.0,7.0,39,38,3,High Risk (Low Engagement + High Support),False
+900,Rush Software,starter,active,10.0,9.0,52,50,6,Support Risk,False
+901,Xenon Tech,starter,cancelled,12.0,6.0,35,32,7,Churned,True
+902,Rift Hub,starter,active,19.0,4.0,46,42,6,Support Risk,False
+903,OnyxDigital,starter,cancelled,10.0,5.0,41,40,5,Churned,True
+904,QuarkDynamics,starter,active,19.0,5.0,40,37,3,High Risk (Low Engagement + High Support),False
+905,OrbitVentures,professional,active,39.0,9.0,28,27,5,High Risk (Low Engagement + High Support),False
+906,EdgeNet,professional,active,59.0,2.0,59,57,5,Healthy,False
+907,EdgeAnalytics,professional,active,59.0,2.0,35,35,7,Disengaged Risk,False
+908,OnyxGroup,professional,active,39.0,5.0,44,43,4,Support Risk,False
+909,SageVentures,enterprise,cancelled,199.0,3.0,27,26,5,Churned,True
+910,DriftLogic,free,cancelled,0.0,7.0,39,35,6,Churned,True
+911,Luna HQ,professional,active,39.0,6.0,33,33,4,High Risk (Low Engagement + High Support),False
+912,Vertex Corp,free,active,0.0,2.0,54,52,7,Healthy,False
+913,Vertex Ops,professional,cancelled,59.0,7.0,44,43,6,Churned,True
+914,RushCorp,free,active,0.0,2.0,54,52,5,Healthy,False
+915,Keen Solutions,free,cancelled,0.0,4.0,39,37,6,Churned,True
+916,TidalDigital,free,active,0.0,4.0,33,33,5,High Risk (Low Engagement + High Support),False
+917,MetaOps,enterprise,active,99.0,5.0,40,39,4,High Risk (Low Engagement + High Support),False
+918,PulseStack,professional,active,39.0,8.0,50,48,5,Support Risk,False
+919,OrbitPro,enterprise,active,79.2,9.0,40,38,3,High Risk (Low Engagement + High Support),False
+920,Rush Logic,professional,active,59.0,4.0,42,40,5,Support Risk,False
+921,Flux Works,starter,active,19.0,4.0,41,41,4,Support Risk,False
+922,HiveOps,free,active,0.0,5.0,43,41,3,Support Risk,False
+923,TrekDynamics,professional,active,35.1,7.0,41,40,5,Support Risk,False
+924,LunaStack,free,active,0.0,2.0,55,53,7,Healthy,False
+925,DriftDynamics,free,active,0.0,8.0,53,48,6,Support Risk,False
+926,XenonHub,free,active,0.0,6.0,38,37,6,High Risk (Low Engagement + High Support),False
+927,Beam Platform,professional,cancelled,59.0,1.0,44,40,6,Churned,True
+928,KiteTech,professional,active,49.17,5.0,32,31,4,High Risk (Low Engagement + High Support),False
+929,Tidal Corp,professional,active,59.0,4.0,43,43,2,Support Risk,False
+930,Rift IO,free,active,0.0,4.0,43,41,5,Support Risk,False
+931,Ultra Studio,free,active,0.0,4.0,52,50,7,Support Risk,False
+932,TrekLabs,free,active,0.0,7.0,45,43,6,Support Risk,False
+933,HiveGroup,starter,active,12.0,7.0,43,43,7,Support Risk,False
+934,Beam Analytics,enterprise,active,61.88,7.0,57,55,6,Support Risk,False
+935,SyncDynamics,professional,active,32.5,3.0,48,48,3,Support Risk,False
+936,ZealHQ,free,active,0.0,2.0,47,45,4,Healthy,False
+937,DriftPlatform,free,cancelled,0.0,4.0,49,48,5,Churned,True
+938,JadeDynamics,professional,active,35.1,6.0,39,37,6,High Risk (Low Engagement + High Support),False
+939,HubGroup,free,active,0.0,7.0,46,42,6,Support Risk,False
+940,PeakCloud,starter,active,12.0,5.0,27,25,5,High Risk (Low Engagement + High Support),False
+941,Data Studio,free,active,0.0,2.0,52,48,6,Healthy,False
+942,EdgeStudio,professional,active,59.0,4.0,37,35,3,High Risk (Low Engagement + High Support),False
+943,VertexGroup,professional,active,35.1,8.0,48,47,5,Support Risk,False
+944,TrekHQ,free,cancelled,0.0,4.0,36,35,4,Churned,True
+945,Jet Corp,professional,active,49.17,5.0,34,32,4,High Risk (Low Engagement + High Support),False
+946,XenonIO,professional,active,36.88,4.0,41,40,6,Support Risk,False
+947,OrbitLabs,professional,paused,49.17,3.0,36,33,5,Churned,False
+948,OrbitPlatform,enterprise,cancelled,99.0,4.0,48,46,6,Churned,True
+949,ZealWorks,professional,cancelled,49.17,1.0,42,41,3,Churned,True
+950,Ultra Ventures,professional,active,32.5,6.0,49,45,5,Support Risk,False
+951,DataLabs,professional,cancelled,29.25,7.0,38,38,8,Churned,True
+952,Link Cloud,enterprise,cancelled,70.12,2.0,37,35,4,Churned,True
+953,KiteNet,enterprise,active,199.0,5.0,34,33,4,High Risk (Low Engagement + High Support),False
+954,Data Ventures,free,active,0.0,5.0,48,47,9,Support Risk,False
+955,HubStack,free,cancelled,0.0,5.0,50,48,4,Churned,True
+956,YieldSolutions,starter,active,8.5,2.0,46,44,6,Healthy,False
+957,ArcTech,enterprise,cancelled,99.0,7.0,39,39,4,Churned,True
+958,GridIO,professional,active,59.0,6.0,50,48,5,Support Risk,False
+959,BeamHub,professional,cancelled,39.0,5.0,36,32,4,Churned,True
+960,Peak AI,enterprise,active,70.12,5.0,36,35,3,High Risk (Low Engagement + High Support),False
+961,Unit Hub,starter,active,9.6,8.0,38,37,2,High Risk (Low Engagement + High Support),False
+962,YieldDynamics,professional,cancelled,50.15,6.0,42,41,6,Churned,True
+963,Grid Hub,professional,active,39.0,9.0,42,40,6,Support Risk,False
+964,Core Works,starter,active,19.0,0.0,44,43,7,Healthy,False
+965,IrisAnalytics,professional,active,27.62,4.0,43,41,3,Support Risk,False
+966,Glow Hub,free,active,0.0,3.0,39,39,4,High Risk (Low Engagement + High Support),False
+967,JadeHub,enterprise,active,99.0,5.0,42,41,5,Support Risk,False
+968,Grid Group,professional,cancelled,39.0,6.0,45,44,4,Churned,True
+969,PulseCloud,professional,active,32.5,7.0,54,51,5,Support Risk,False
+970,Ion Dev,starter,cancelled,12.0,6.0,49,47,4,Churned,True
+971,FlowNet,starter,active,12.0,7.0,43,40,4,Support Risk,False
+972,Data Digital,free,active,0.0,4.0,42,41,4,Support Risk,False
+973,Peak Ventures,starter,active,15.83,1.0,39,39,6,Disengaged Risk,False
+974,ArcLabs,free,active,0.0,7.0,44,44,4,Support Risk,False
+975,Nexus Systems,starter,active,19.0,7.0,33,32,3,High Risk (Low Engagement + High Support),False
+976,Edge Ops,starter,active,10.0,9.0,37,37,7,High Risk (Low Engagement + High Support),False
+977,YieldOps,enterprise,active,99.0,5.0,29,29,5,High Risk (Low Engagement + High Support),False
+978,Beam HQ,professional,active,27.62,5.0,33,33,3,High Risk (Low Engagement + High Support),False
+979,Drift Studio,starter,cancelled,12.0,5.0,35,33,2,Churned,True
+980,ZealPlatform,professional,cancelled,49.17,4.0,54,54,6,Churned,True
+981,QuarkPlatform,enterprise,cancelled,149.25,1.0,36,33,5,Churned,True
+982,Rush Ventures,enterprise,active,99.0,3.0,34,34,4,High Risk (Low Engagement + High Support),False
+983,OrbitCorp,professional,active,32.5,8.0,44,43,4,Support Risk,False
+984,QuarkLabs,professional,active,32.5,4.0,32,31,3,High Risk (Low Engagement + High Support),False
+985,CloudIO,starter,active,10.0,5.0,51,49,9,Support Risk,False
+986,Sage Studio,starter,cancelled,19.0,7.0,34,34,4,Churned,True
+987,DataOps,starter,cancelled,12.0,5.0,40,40,6,Churned,True
+988,Arc Systems,professional,active,32.5,8.0,51,50,3,Support Risk,False
+989,MistDynamics,starter,active,16.15,3.0,38,36,6,High Risk (Low Engagement + High Support),False
+990,Data Platform,enterprise,cancelled,66.0,3.0,28,28,2,Churned,True
+991,PulseDynamics,starter,active,9.0,5.0,52,51,7,Support Risk,False
+992,Jet Group,free,active,0.0,4.0,45,44,4,Support Risk,False
+993,Bolt Hub,professional,active,39.0,4.0,36,35,5,High Risk (Low Engagement + High Support),False
+994,OnyxPro,professional,active,59.0,2.0,41,39,7,Disengaged Risk,False
+995,Warp Cloud,starter,cancelled,10.0,4.0,43,42,6,Churned,True
+996,XenonPro,starter,paused,12.0,3.0,44,44,5,Churned,False
+997,Edge AI,free,cancelled,0.0,4.0,42,41,5,Churned,True
+998,Trek Hub,starter,active,12.0,5.0,41,41,5,Support Risk,False
+999,Pulse Corp,free,active,0.0,6.0,44,43,3,Support Risk,False
+1000,SyncStack,free,active,0.0,8.0,37,36,5,High Risk (Low Engagement + High Support),False
+1001,Flow IO,professional,cancelled,39.0,10.0,37,37,3,Churned,True
+1002,RushWorks,professional,cancelled,31.2,5.0,41,40,3,Churned,True
+1003,LinkWorks,starter,active,19.0,9.0,42,39,5,High Risk (Low Engagement + High Support),False
+1004,MetaPlatform,professional,active,53.1,10.0,35,34,4,High Risk (Low Engagement + High Support),False
+1005,WarpGroup,enterprise,active,99.0,7.0,39,38,4,High Risk (Low Engagement + High Support),False
+1006,LunaSoftware,professional,active,39.0,4.0,50,50,6,Support Risk,False
+1007,OnyxNet,starter,active,10.0,5.0,48,47,4,Support Risk,False
+1008,DataTech,free,active,0.0,6.0,49,47,7,Support Risk,False
+1009,LinkDigital,starter,active,10.2,4.0,46,44,6,Support Risk,False
+1010,FlowAnalytics,free,cancelled,0.0,5.0,35,34,5,Churned,True
+1011,Zeal Labs,free,active,0.0,7.0,37,37,2,High Risk (Low Engagement + High Support),False
+1012,Luna Hub,professional,active,49.17,11.0,48,48,4,Support Risk,False
+1013,SyncPro,professional,active,59.0,7.0,30,29,5,High Risk (Low Engagement + High Support),False
+1014,Peak Studio,free,active,0.0,3.0,42,41,4,Support Risk,False
+1015,QuarkVentures,starter,active,19.0,5.0,55,54,7,Support Risk,False
+1016,Iris Studio,professional,active,53.1,9.0,41,40,4,Support Risk,False
+1017,Zeal Platform,professional,cancelled,39.0,9.0,45,38,4,Churned,True
+1018,BoltStack,starter,active,10.0,3.0,48,46,7,Support Risk,False
+1019,Jet Net,starter,active,15.83,9.0,36,35,5,High Risk (Low Engagement + High Support),False
+1020,Jade Logic,professional,active,49.17,5.0,45,44,7,Support Risk,False
+1021,ZealSoftware,professional,active,39.0,4.0,49,48,4,Support Risk,False
+1022,GlowAnalytics,free,active,0.0,6.0,36,33,7,High Risk (Low Engagement + High Support),False
+1023,DataSystems,enterprise,active,99.0,9.0,46,44,5,Support Risk,False
+1024,Arc Hub,free,active,0.0,4.0,51,48,5,Support Risk,False
+1025,FluxHQ,professional,active,49.17,5.0,59,54,6,Support Risk,False
+1026,VineIO,free,cancelled,0.0,4.0,37,37,6,Churned,True
+1027,Drift Platform,enterprise,active,74.25,3.0,46,45,5,Support Risk,False
+1028,GlowOps,starter,active,15.83,7.0,46,43,4,Support Risk,False
+1029,GridLogic,professional,cancelled,59.0,7.0,36,34,5,Churned,True
+1030,Hive Corp,professional,active,49.17,8.0,32,32,4,High Risk (Low Engagement + High Support),False
+1031,Rift Works,starter,active,12.0,4.0,46,46,5,Support Risk,False
+1032,ZenOps,free,active,0.0,4.0,37,36,1,High Risk (Low Engagement + High Support),False
+1033,WarpLabs,professional,active,32.5,9.0,48,46,5,Support Risk,False
+1034,CoreSystems,free,cancelled,0.0,5.0,32,31,2,Churned,True
+1035,JadeVentures,enterprise,cancelled,74.25,3.0,32,32,3,Churned,True
+1036,Mist Works,professional,active,59.0,6.0,36,35,1,High Risk (Low Engagement + High Support),False
+1037,SageStack,starter,cancelled,13.46,6.0,44,41,2,Churned,True
+1038,DriftIO,free,active,0.0,6.0,42,41,2,Support Risk,False
+1039,Peak Dynamics,starter,active,19.0,3.0,46,46,4,Support Risk,False
+1040,Vine Works,starter,active,19.0,4.0,42,41,5,Support Risk,False
+1041,Ion Ops,free,active,0.0,5.0,32,32,4,High Risk (Low Engagement + High Support),False
+1042,Warp Works,professional,active,47.2,10.0,29,28,3,High Risk (Low Engagement + High Support),False
+1043,NexusSystems,free,active,0.0,10.0,31,30,4,High Risk (Low Engagement + High Support),False
+1044,Xenon Software,starter,active,19.0,3.0,40,40,3,Support Risk,False
+1045,Nexus Analytics,starter,cancelled,10.0,6.0,48,46,7,Churned,True
+1046,JadeAI,free,active,0.0,8.0,25,25,2,High Risk (Low Engagement + High Support),False
+1047,DataWorks,professional,active,59.0,6.0,41,38,7,High Risk (Low Engagement + High Support),False
+1048,UltraNet,free,active,0.0,2.0,32,31,3,Disengaged Risk,False
+1049,OnyxPlatform,starter,active,10.0,5.0,39,39,3,High Risk (Low Engagement + High Support),False
+1050,Grid Cloud,professional,active,47.2,3.0,35,33,4,High Risk (Low Engagement + High Support),False
+1051,BeamHQ,enterprise,active,82.5,5.0,34,34,5,High Risk (Low Engagement + High Support),False
+1052,Luna Net,free,active,0.0,4.0,40,39,3,High Risk (Low Engagement + High Support),False
+1053,Kite Hub,starter,active,17.1,5.0,40,37,3,High Risk (Low Engagement + High Support),False
+1054,NexusTech,starter,cancelled,12.0,2.0,46,45,5,Churned,True
+1055,NovaSoftware,free,cancelled,0.0,5.0,33,31,3,Churned,True
+1056,UnitCorp,enterprise,active,82.5,4.0,39,38,5,High Risk (Low Engagement + High Support),False
+1057,UltraDynamics,starter,active,12.67,6.0,40,38,6,High Risk (Low Engagement + High Support),False
+1058,QuarkAnalytics,free,active,0.0,3.0,50,48,4,Support Risk,False
+1059,Pulse Ops,professional,active,26.0,4.0,42,41,3,Support Risk,False
+1060,ZenPro,free,active,0.0,5.0,33,31,5,High Risk (Low Engagement + High Support),False
+1061,Vine Pro,starter,active,12.0,6.0,44,42,6,Support Risk,False
+1062,WaveSolutions,enterprise,active,70.12,5.0,45,45,5,Support Risk,False
+1063,Rush Stack,free,cancelled,0.0,6.0,46,45,6,Churned,True
+1064,ZenAI,free,active,0.0,4.0,29,29,2,High Risk (Low Engagement + High Support),False
+1065,HubSystems,starter,active,15.83,6.0,40,38,7,High Risk (Low Engagement + High Support),False
+1066,MetaGroup,starter,active,12.0,9.0,36,34,3,High Risk (Low Engagement + High Support),False
+1067,RiftLogic,free,cancelled,0.0,3.0,40,36,4,Churned,True
+1068,KeenGroup,professional,cancelled,31.2,3.0,49,49,5,Churned,True
+1069,Bolt Analytics,professional,cancelled,35.1,4.0,47,47,4,Churned,True
+1070,CorePro,enterprise,active,99.0,5.0,44,43,6,Support Risk,False
+1071,UltraAnalytics,starter,cancelled,10.0,4.0,42,41,3,Churned,True
+1072,XenonCorp,free,active,0.0,3.0,36,36,6,High Risk (Low Engagement + High Support),False
+1073,Quark HQ,free,cancelled,0.0,6.0,35,35,3,Churned,True
+1074,Acme Dev,professional,active,32.5,7.0,41,40,5,Support Risk,False
+1075,FlowSoftware,starter,active,10.2,6.0,42,40,8,Support Risk,False
+1076,Zen Solutions,professional,active,32.5,5.0,41,40,5,Support Risk,False
+1077,Jade Labs,enterprise,active,84.15,3.0,44,41,3,Support Risk,False
+1078,Pulse Digital,free,active,0.0,6.0,38,36,5,High Risk (Low Engagement + High Support),False
+1079,Quark AI,enterprise,active,99.0,8.0,40,39,8,High Risk (Low Engagement + High Support),False
+1080,KeenLabs,free,active,0.0,5.0,39,38,5,High Risk (Low Engagement + High Support),False
+1081,Edge Software,starter,active,19.0,10.0,36,35,5,High Risk (Low Engagement + High Support),False
+1082,WarpWorks,starter,active,12.0,10.0,43,41,6,Support Risk,False
+1083,KiteCorp,professional,cancelled,49.17,4.0,45,45,8,Churned,True
+1084,GlowGroup,starter,active,12.0,7.0,56,54,5,Support Risk,False
+1085,EdgeDynamics,professional,active,59.0,4.0,34,33,6,High Risk (Low Engagement + High Support),False
+1086,Cloud Corp,professional,active,39.0,5.0,36,36,5,High Risk (Low Engagement + High Support),False
+1087,Kite Group,professional,active,49.17,3.0,43,42,5,Support Risk,False
+1088,CloudVentures,starter,active,15.83,9.0,38,38,3,High Risk (Low Engagement + High Support),False
+1089,LinkOps,enterprise,active,132.67,5.0,45,43,6,Support Risk,False
+1090,Acme Digital,professional,active,39.0,2.0,43,42,6,Healthy,False
+1091,GlowVentures,professional,cancelled,39.0,7.0,29,28,3,Churned,True
+1092,PulseStudio,starter,active,12.0,5.0,42,42,4,Support Risk,False
+1093,QuarkWorks,starter,active,9.6,1.0,42,39,4,Disengaged Risk,False
+1094,BeamWorks,professional,active,39.0,5.0,53,48,7,Support Risk,False
+1095,Quark Group,professional,active,49.17,9.0,43,43,7,Support Risk,False
+1096,OnyxLogic,starter,active,19.0,5.0,44,42,4,Support Risk,False
+1097,LinkAnalytics,professional,active,59.0,8.0,39,38,6,High Risk (Low Engagement + High Support),False
+1098,SageLogic,starter,active,15.83,5.0,34,32,2,High Risk (Low Engagement + High Support),False
+1099,NovaCorp,free,active,0.0,7.0,33,32,5,High Risk (Low Engagement + High Support),False
+1100,Sync Logic,professional,active,49.17,7.0,39,38,2,High Risk (Low Engagement + High Support),False
+1101,FluxHub,professional,active,39.0,5.0,44,41,5,Support Risk,False
+1102,QuarkLogic,starter,active,12.0,6.0,53,51,4,Support Risk,False
+1103,Luna Systems,starter,active,12.0,2.0,38,35,4,Disengaged Risk,False
+1104,Luna Analytics,starter,cancelled,10.0,7.0,54,52,4,Churned,True
+1105,EchoNet,professional,active,39.0,5.0,35,34,5,High Risk (Low Engagement + High Support),False
+1106,ArcAnalytics,professional,active,35.1,7.0,41,40,6,Support Risk,False
+1107,VertexPlatform,professional,cancelled,59.0,4.0,50,48,2,Churned,True
+1108,GlowWorks,free,active,0.0,8.0,43,42,5,Support Risk,False
+1109,Iris Group,free,active,0.0,7.0,37,37,2,High Risk (Low Engagement + High Support),False
+1110,QuestCloud,starter,cancelled,10.0,3.0,45,41,7,Churned,True
+1111,EdgeGroup,professional,active,49.17,7.0,37,33,3,High Risk (Low Engagement + High Support),False
+1112,SyncDev,free,cancelled,0.0,4.0,41,39,5,Churned,True
+1113,Rift Stack,starter,paused,12.0,3.0,45,42,1,Churned,False
+1114,LinkDev,free,active,0.0,4.0,41,40,2,Support Risk,False
+1115,Flow Pro,enterprise,active,82.5,4.0,45,42,4,Support Risk,False
+1116,Hub Stack,free,active,0.0,2.0,49,45,6,Healthy,False
+1117,Acme Labs,professional,active,39.0,5.0,38,38,3,High Risk (Low Engagement + High Support),False
+1118,JadeCloud,free,active,0.0,8.0,49,47,7,Support Risk,False
+1119,BoltHQ,free,cancelled,0.0,6.0,35,35,2,Churned,True
+1120,Acme Stack,starter,active,10.0,5.0,30,29,6,High Risk (Low Engagement + High Support),False
+1121,ZealGroup,enterprise,active,199.0,9.0,33,32,3,High Risk (Low Engagement + High Support),False
+1122,KiteLogic,professional,active,59.0,3.0,39,39,5,High Risk (Low Engagement + High Support),False
+1123,IonLabs,professional,active,59.0,6.0,48,44,4,Support Risk,False
+1124,KeenStudio,professional,active,49.17,5.0,40,37,4,High Risk (Low Engagement + High Support),False
+1125,SyncLogic,starter,active,19.0,5.0,46,44,2,Support Risk,False
+1126,Echo Works,starter,active,10.0,3.0,37,36,5,High Risk (Low Engagement + High Support),False
+1127,RiftCloud,free,active,0.0,7.0,37,35,8,High Risk (Low Engagement + High Support),False
+1128,Zen Platform,professional,active,59.0,8.0,42,41,4,Support Risk,False
+1129,JadeGroup,starter,active,15.83,3.0,40,40,3,Support Risk,False
+1130,EdgeLogic,professional,active,39.0,4.0,38,37,6,High Risk (Low Engagement + High Support),False
+1131,Luna Corp,starter,cancelled,8.5,3.0,42,41,7,Churned,True
+1132,Echo Analytics,starter,active,19.0,5.0,34,33,4,High Risk (Low Engagement + High Support),False
+1133,HubCorp,starter,active,15.83,3.0,52,50,5,Support Risk,False
+1134,CloudAnalytics,free,active,0.0,7.0,43,41,4,Support Risk,False
+1135,CoreAnalytics,free,cancelled,0.0,5.0,50,48,1,Churned,True
+1136,TidalDynamics,starter,active,12.0,7.0,42,39,5,High Risk (Low Engagement + High Support),False
+1137,UnitLabs,enterprise,cancelled,199.0,8.0,37,35,6,Churned,True
+1138,Onyx Labs,professional,active,32.5,4.0,43,43,1,Support Risk,False
+1139,Hub Works,starter,active,12.0,3.0,54,50,4,Support Risk,False
+1140,WaveNet,free,active,0.0,3.0,31,30,3,High Risk (Low Engagement + High Support),False
+1141,NovaNet,starter,paused,15.83,5.0,42,41,4,Churned,False
+1142,OrbitStack,professional,cancelled,59.0,3.0,40,38,4,Churned,True
+1143,Bolt Logic,professional,active,59.0,6.0,39,38,5,High Risk (Low Engagement + High Support),False
+1144,Zen IO,professional,active,49.17,1.0,40,39,1,Disengaged Risk,False
+1145,QuarkDigital,professional,active,39.0,6.0,46,44,3,Support Risk,False
+1146,Vine AI,starter,active,19.0,4.0,41,41,5,Support Risk,False
+1147,Hub Tech,starter,active,19.0,6.0,37,37,5,High Risk (Low Engagement + High Support),False
+1148,KeenDynamics,starter,active,12.0,4.0,50,47,4,Support Risk,False
+1149,ArcOps,free,active,0.0,6.0,41,40,4,Support Risk,False
+1150,Wave Solutions,enterprise,active,99.0,8.0,52,49,4,Support Risk,False
+1151,WaveDev,starter,active,12.0,6.0,37,36,4,High Risk (Low Engagement + High Support),False
+1152,UnitVentures,starter,active,12.0,4.0,36,35,6,High Risk (Low Engagement + High Support),False
+1153,MistDigital,free,cancelled,0.0,8.0,46,45,5,Churned,True
+1154,Nova Group,starter,active,12.0,6.0,48,46,5,Support Risk,False
+1155,UnitDigital,starter,cancelled,15.83,7.0,33,33,1,Churned,True
+1156,Ion Digital,free,active,0.0,4.0,43,41,6,Support Risk,False
+1157,AcmeOps,enterprise,active,99.0,2.0,41,40,5,Healthy,False
+1158,ZealTech,professional,active,29.25,6.0,42,39,4,High Risk (Low Engagement + High Support),False
+1159,Vine Dynamics,starter,active,12.67,6.0,44,43,7,Support Risk,False
+1160,Zen Digital,professional,paused,49.17,6.0,41,40,4,Churned,False
+1161,ZenSoftware,professional,cancelled,59.0,3.0,43,42,6,Churned,True
+1162,Jet Analytics,starter,active,14.25,8.0,48,48,5,Support Risk,False
+1163,IrisPro,professional,active,39.0,5.0,36,35,5,High Risk (Low Engagement + High Support),False
+1164,Vertex Platform,starter,active,10.8,2.0,43,40,5,Healthy,False
+1165,Flow Net,starter,active,10.0,4.0,40,38,6,High Risk (Low Engagement + High Support),False
+1166,FluxWorks,free,active,0.0,7.0,45,42,6,Support Risk,False
+1167,XenonLabs,starter,active,12.0,4.0,36,36,3,High Risk (Low Engagement + High Support),False
+1168,ZenCloud,professional,active,39.0,4.0,44,41,4,Support Risk,False
+1169,SyncAI,starter,active,12.0,3.0,43,43,6,Support Risk,False
+1170,Rift Labs,professional,active,32.5,3.0,52,49,6,Support Risk,False
+1171,Kite Software,free,active,0.0,3.0,39,38,4,High Risk (Low Engagement + High Support),False
+1172,RiftLabs,professional,active,32.5,8.0,47,46,3,Support Risk,False
+1173,PeakAI,professional,active,59.0,8.0,42,40,7,Support Risk,False
+1174,TidalSolutions,enterprise,active,82.5,8.0,43,40,8,Support Risk,False
+1175,Nexus Studio,enterprise,active,199.0,5.0,38,36,3,High Risk (Low Engagement + High Support),False
+1176,Xenon Group,professional,active,49.17,8.0,50,47,2,Support Risk,False
+1177,AcmeCloud,enterprise,active,82.5,5.0,51,49,6,Support Risk,False
+1178,ZenTech,free,cancelled,0.0,5.0,42,41,7,Churned,True
+1179,HubDigital,professional,active,59.0,9.0,37,36,5,High Risk (Low Engagement + High Support),False
+1180,Core Hub,free,active,0.0,5.0,36,33,2,High Risk (Low Engagement + High Support),False
+1181,QuestPro,starter,cancelled,10.0,5.0,60,54,5,Churned,True
+1182,RushSystems,starter,cancelled,8.5,5.0,31,31,5,Churned,True
+1183,QuestAI,professional,active,44.25,5.0,39,39,6,High Risk (Low Engagement + High Support),False
+1184,Edge Solutions,starter,active,8.0,3.0,40,38,4,High Risk (Low Engagement + High Support),False
+1185,LunaAI,starter,active,15.83,3.0,29,26,7,High Risk (Low Engagement + High Support),False
+1186,Meta Ventures,starter,active,19.0,9.0,37,35,2,High Risk (Low Engagement + High Support),False
+1187,Mist Hub,starter,active,10.0,2.0,50,49,3,Healthy,False
+1188,WavePlatform,starter,cancelled,19.0,5.0,45,43,5,Churned,True
+1189,Cloud Solutions,professional,active,59.0,4.0,48,45,4,Support Risk,False
+1190,Ion Corp,enterprise,active,74.25,5.0,39,39,3,High Risk (Low Engagement + High Support),False
+1191,WaveWorks,starter,active,8.5,5.0,45,43,7,Support Risk,False
+1192,LinkHQ,starter,active,12.0,6.0,28,28,2,High Risk (Low Engagement + High Support),False
+1193,KeenHub,starter,active,15.83,7.0,41,39,2,High Risk (Low Engagement + High Support),False
+1194,Edge Cloud,starter,active,12.0,7.0,42,38,2,High Risk (Low Engagement + High Support),False
+1195,Link Works,free,active,0.0,5.0,40,37,1,High Risk (Low Engagement + High Support),False
+1196,Acme Hub,professional,active,59.0,6.0,36,34,4,High Risk (Low Engagement + High Support),False
+1197,Cloud Cloud,starter,active,12.0,2.0,47,47,5,Healthy,False
+1198,NovaPro,free,active,0.0,3.0,43,43,4,Support Risk,False
+1199,FlowVentures,starter,cancelled,15.83,8.0,40,40,4,Churned,True
+1200,Arc Solutions,starter,active,19.0,4.0,36,33,3,High Risk (Low Engagement + High Support),False
+1201,Acme Labs ,,,,0.0,33,32,4,Churned,False
+1202,AcmeLabs,,,,0.0,43,42,6,Churned,False
+1203,Unknown Corp,,,,0.0,43,42,5,Churned,False
+1204,,,,,0.0,48,47,3,Churned,False
