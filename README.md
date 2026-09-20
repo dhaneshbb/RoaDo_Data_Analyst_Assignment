@@ -61,11 +61,11 @@ Execute the primary analysis notebook to generate the final dataset:
 The unstructured nature of the MongoDB activity logs presented severe data quality issues that required advanced programmatic normalization before analysis could begin:
 
 1. **Catastrophic Event Duplication:** 
-   - **Issue:** The ctivity_clean.csv contained over 49,000 duplicated event rows. Analysis revealed this was likely caused by frontend double-fire bugs creating identical timestamps and payloads, but unique MongoDB _id hashes.
+   - **Issue:** The activity_clean.csv contained over 49,000 duplicated event rows. Analysis revealed this was likely caused by frontend double-fire bugs creating identical timestamps and payloads, but unique MongoDB _id hashes.
    - **Fix:** Dropped the unique MongoDB _id column locally and ran a strict drop_duplicates() pass, which successfully stripped 49,153 ghost events, ensuring session counts were mathematically accurate.
 2. **Inconsistent Schema Keys:** 
    - **Issue:** NoSQL schemas resulted in the primary key being stored randomly as customerId, customer_id, or customerID. 
-   - **Fix:** Handled programmatically using Pandas coalesce equivalents (fill(axis=1)) to collapse all three variations into a single, unified customer_id column.
+   - **Fix:** Handled programmatically using Pandas coalesce equivalents (bfill(axis=1)) to collapse all three variations into a single, unified customer_id column.
 3. **Data Type Mismatches:** 
    - **Issue:** Customer IDs were exported as floats (e.g., 229.0) in MongoDB but as strings in PostgreSQL, causing catastrophic join failures during the final dataset merge. 
    - **Fix:** Coerced all IDs using .astype(str) and stripped trailing .0 decimals via regex to guarantee a flawless 1:1 join with the SQL schema.
